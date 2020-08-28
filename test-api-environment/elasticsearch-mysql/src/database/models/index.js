@@ -22,9 +22,9 @@ module.exports.initRelationships = (sequelize) => {
   Flag.hasOne(Level);
   Flag.hasOne(FlagType);
 
-  Word.hasMany(Speech);
-  Word.hasMany(SubTerm);
-  Word.hasMany(Reading);
-  Word.hasMany(Flag);
-  Word.hasMany(AltWord);
+  Speech.belongsToMany(Word, { through: "Word_Speech" });
+  SubTerm.belongsToMany(Word, { through: "Word_SubTerm" });
+  Reading.belongsToMany(Word, { through: "Word_Reading" });
+  Flag.belongsToMany(Word, { through: "Word_Flag" });
+  AltWord.belongsToMany(Word, { through: "Word_AltWord" });
 };
