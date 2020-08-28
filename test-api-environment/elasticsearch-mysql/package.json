@@ -1,0 +1,17 @@
+{
+  "name": "elasticsearch-mysql",
+  "version": "0.0.1",
+  "description": "Test setup for Self Defined API using Elastic Search and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src"
+  },
+  "author": "Self Defined - Simeon Smith",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}

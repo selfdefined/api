@@ -1,0 +1,19 @@
+{
+  "name": "self-defined-api",
+  "version": "0.0.1",
+  "description": "The api to access the Self Defined dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfdefined/api.git"
+  },
+  "author": "Self Defined - Tatiana Mac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selfdefined/api/issues"
+  },
+  "homepage": "https://github.com/selfdefined/api#readme"
+}
