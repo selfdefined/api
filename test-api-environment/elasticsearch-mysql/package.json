@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ./src"
+    "dev": "node ./src",
+    "start-docker": "docker-compose up -d",
+    "sync-database": "node ./src/deployment/sync-database.js"
   },
   "author": "Self Defined - Simeon Smith",
   "license": "ISC",

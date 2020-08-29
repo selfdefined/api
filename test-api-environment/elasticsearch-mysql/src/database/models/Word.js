@@ -1,19 +1,23 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const Word = (sequelize) =>
-  sequelize.define("Word", {
+const Word = (database) =>
+  database.define('Word', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     slug: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     body: {
       type: DataTypes.TEXT,
-      allowNull: true,
+      allowNull: true
     },
+    excerpt: {
+      type: DataTypes.TEXT,
+      allowNull: true
+    }
   });
 
 module.exports = Word;

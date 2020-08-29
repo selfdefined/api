@@ -1,14 +1,14 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const Speech = (sequelize) =>
-  sequelize.define("Speech", {
+const Speech = (database) =>
+  database.define('Speech', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     abbrev: {
-      type: DataTypes.STRING,
-    },
+      type: DataTypes.STRING
+    }
   });
 
 module.exports = Speech;

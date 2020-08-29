@@ -1,15 +1,15 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const Reading = (sequelize) =>
-  sequelize.define("Reading", {
+const Reading = (database) =>
+  database.define('Reading', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     href: {
       type: DataTypes.STRING,
-      allowNull: false,
-    },
+      allowNull: false
+    }
   });
 
 module.exports = Reading;

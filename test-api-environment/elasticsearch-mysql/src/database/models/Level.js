@@ -1,11 +1,11 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const Level = (sequelize) =>
-  sequelize.define("Level", {
+const Level = (database) =>
+  database.define('Level', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
-    },
+      allowNull: false
+    }
   });
 
 module.exports = Level;

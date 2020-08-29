@@ -1,11 +1,11 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const AltWord = (sequelize) =>
-  sequelize.define("AltWord", {
+const AltWord = (database) =>
+  database.define('AltWord', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
-    },
+      allowNull: false
+    }
   });
 
 module.exports = AltWord;

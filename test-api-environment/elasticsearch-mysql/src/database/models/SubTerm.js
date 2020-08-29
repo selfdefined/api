@@ -1,15 +1,15 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const SubTerm = (sequelize) =>
-  sequelize.define("SubTerm", {
+const SubTerm = (database) =>
+  database.define('SubTerm', {
     affix: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: false
     },
     text: {
       type: DataTypes.STRING,
-      allowNull: false,
-    },
+      allowNull: false
+    }
   });
 
 module.exports = SubTerm;

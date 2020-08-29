@@ -1,11 +1,11 @@
-const { DataTypes } = require("sequelize");
+const { DataTypes } = require('sequelize');
 
-const FlagType = (sequelize) =>
-  sequelize.define("FlagType", {
+const FlagType = (database) =>
+  database.define('FlagType', {
     title: {
       type: DataTypes.STRING,
-      allowNull: false,
-    },
+      allowNull: false
+    }
   });
 
 module.exports = FlagType;
