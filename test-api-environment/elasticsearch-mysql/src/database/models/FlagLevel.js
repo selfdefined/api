@@ -1,8 +1,8 @@
 const { DataTypes } = require('sequelize');
 const SequelizeSlugify = require('sequelize-slugify');
 
-const Flag = (database) => {
-  const model = database.define('Flag', {
+const FlagLevel = (database) => {
+  const model = database.define('FlagLevel', {
     title: {
       type: DataTypes.STRING,
       allowNull: false
@@ -23,4 +23,4 @@ const Flag = (database) => {
   });
 };
 
-module.exports = Flag;
+module.exports = FlagLevel;

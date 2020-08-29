@@ -1,8 +1,8 @@
 const { DataTypes } = require('sequelize');
 const SequelizeSlugify = require('sequelize-slugify');
 
-const Flag = (database) => {
-  const model = database.define('Flag', {
+const AltWordGroup = (database) => {
+  const model = database.define('AltWordGroup', {
     title: {
       type: DataTypes.STRING,
       allowNull: false
@@ -13,7 +13,6 @@ const Flag = (database) => {
       unique: true
     }
   });
-
   SequelizeSlugify.slugifyModel(model, {
     source: ['title'],
     slugOptions: { lower: true },
@@ -23,4 +22,4 @@ const Flag = (database) => {
   });
 };
 
-module.exports = Flag;
+module.exports = AltWordGroup;

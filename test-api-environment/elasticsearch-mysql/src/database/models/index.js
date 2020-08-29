@@ -1,10 +1,11 @@
 const models = [
   require('./AltWord'),
+  require('./AltWordGroup'),
   require('./Flag'),
   require('./FlagType'),
-  require('./Level'),
+  require('./FlagLevel'),
   require('./Reading'),
-  require('./Speech'),
+  require('./SpeechPart'),
   require('./SubTerm'),
   require('./Word')
 ];
@@ -29,24 +30,25 @@ class Models {
   initRelationships(database) {
     const {
       AltWord,
+      AltWordGroup,
       Flag,
       FlagType,
-      Level,
+      FlagLevel,
       Reading,
-      Speech,
+      SpeechPart,
       SubTerm,
       Word
     } = database.models;
-    AltWord.hasOne(Speech);
 
-    Flag.hasOne(Level);
-    Flag.hasOne(FlagType);
+    AltWord.belongsTo(AltWordGroup);
+    Flag.belongsTo(FlagLevel);
+    Flag.belongsTo(FlagType);
 
-    Speech.belongsToMany(Word, { through: 'Word_Speech' });
-    SubTerm.belongsToMany(Word, { through: 'Word_SubTerm' });
-    Reading.belongsToMany(Word, { through: 'Word_Reading' });
-    Flag.belongsToMany(Word, { through: 'Word_Flag' });
-    AltWord.belongsToMany(Word, { through: 'Word_AltWord' });
+    AltWord.belongsToMany(Word, { through: 'Words_have_AltWords' });
+    Flag.belongsToMany(Word, { through: 'Words_have_Flags' });
+    Reading.belongsToMany(Word, { through: 'Words_have_Readings' });
+    SpeechPart.belongsToMany(Word, { through: 'Words_have_SpeechParts' });
+    SubTerm.belongsToMany(Word, { through: 'Words_have_SubTerms' });
   }
 }
 

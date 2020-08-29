@@ -1,14 +1,21 @@
 const { DataTypes } = require('sequelize');
+const SequelizeSlugify = require('sequelize-slugify');
 
-const Word = (database) =>
-  database.define('Word', {
+const Word = (database) => {
+  const model = database.define('Word', {
     title: {
       type: DataTypes.STRING,
       allowNull: false
     },
     slug: {
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: false,
+      unique: true
+    },
+    defined: {
+      type: DataTypes.BOOLEAN,
+      allowNull: false,
+      defaultValue: false
     },
     body: {
       type: DataTypes.TEXT,
@@ -19,5 +26,13 @@ const Word = (database) =>
       allowNull: true
     }
   });
+  SequelizeSlugify.slugifyModel(model, {
+    source: ['title'],
+    slugOptions: { lower: true },
+    overwrite: false,
+    column: 'slug',
+    incrementalReplacement: '-'
+  });
+};
 
 module.exports = Word;

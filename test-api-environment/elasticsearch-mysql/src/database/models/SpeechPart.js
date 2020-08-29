@@ -1,11 +1,14 @@
 const { DataTypes } = require('sequelize');
 const SequelizeSlugify = require('sequelize-slugify');
 
-const Flag = (database) => {
-  const model = database.define('Flag', {
+const SpeechPart = (database) => {
+  const model = database.define('SpeechPart', {
     title: {
       type: DataTypes.STRING,
       allowNull: false
+    },
+    abbrev: {
+      type: DataTypes.STRING
     },
     slug: {
       type: DataTypes.STRING,
@@ -23,4 +26,4 @@ const Flag = (database) => {
   });
 };
 
-module.exports = Flag;
+module.exports = SpeechPart;
