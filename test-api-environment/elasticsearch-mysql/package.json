@@ -16,5 +16,9 @@
     "mysql2": "^2.1.0",
     "sequelize": "^6.3.4",
     "sequelize-slugify": "^0.9.1"
+  },
+  "devDependencies": {
+    "markdown-to-json": "^0.5.4",
+    "sequelize-cli": "^6.2.0"
   }
 }

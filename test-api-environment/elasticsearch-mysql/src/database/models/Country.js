@@ -1,7 +1,7 @@
 const { DataTypes } = require('sequelize');
 
-const Language = (database) => {
-  database.define('Language', {
+const Country = (database) => {
+  database.define('Country', {
     iso: {
       type: DataTypes.STRING,
       allowNull: false
@@ -9,4 +9,4 @@ const Language = (database) => {
   });
 };
 
-module.exports = Language;
+module.exports = Country;

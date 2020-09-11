@@ -1,14 +1,27 @@
 const models = [
   require('./AltWord'),
+  require('./AltWordEntry'),
   require('./AltWordGroup'),
+  require('./AltWordGroupEntry'),
+  require('./Country'),
+  require('./CountryName'),
   require('./Flag'),
-  require('./FlagType'),
+  require('./FlagEntry'),
   require('./FlagLevel'),
+  require('./FlagLevelEntry'),
+  require('./FlagType'),
+  require('./FlagTypeEntry'),
   require('./Language'),
+  require('./LanguageName'),
+  require('./Localization'),
   require('./Reading'),
+  require('./ReadingEntry'),
   require('./SpeechPart'),
+  require('./SpeechPartEntry'),
   require('./Status'),
+  require('./StatusEntry'),
   require('./SubTerm'),
+  require('./SubTermEntry'),
   require('./Word'),
   require('./WordEntry')
 ];
@@ -33,34 +46,85 @@ class Models {
   initRelationships(database) {
     const {
       AltWord,
+      AltWordEntry,
       AltWordGroup,
+      AltWordGroupEntry,
+      Country,
+      CountryName,
       Flag,
+      FlagEntry,
       FlagType,
+      FlagTypeEntry,
       FlagLevel,
+      FlagLevelEntry,
       Language,
+      LanguageName,
+      Localization,
       Reading,
+      ReadingEntry,
       SpeechPart,
+      SpeechPartEntry,
       Status,
+      StatusEntry,
       SubTerm,
+      SubTermEntry,
       Word,
       WordEntry
     } = database.models;
 
     AltWord.belongsTo(AltWordGroup);
+    AltWord.belongsToMany(WordEntry, { through: 'WordEntries_have_AltWords' });
+
+    AltWordEntry.belongsTo(AltWord);
+    AltWordEntry.belongsTo(Localization);
+
+    AltWordGroupEntry.belongsTo(AltWordGroup);
+    AltWordGroupEntry.belongsTo(Localization);
+
+    CountryName.belongsTo(Country);
+    CountryName.belongsTo(Language);
+
     Flag.belongsTo(FlagLevel);
     Flag.belongsTo(FlagType);
-
-    WordEntry.hasOne(Language);
-    WordEntry.hasOne(Status);
-
-    AltWord.belongsToMany(WordEntry, { through: 'WordEntries_have_AltWords' });
     Flag.belongsToMany(WordEntry, { through: 'WordEntries_have_Flags' });
+
+    FlagEntry.belongsTo(Flag);
+    FlagEntry.belongsTo(Localization);
+
+    FlagTypeEntry.belongsTo(FlagType);
+    FlagTypeEntry.belongsTo(Localization);
+
+    FlagLevelEntry.belongsTo(FlagLevel);
+    FlagLevelEntry.belongsTo(Localization);
+
+    LanguageName.belongsTo(Language);
+
+    Localization.belongsTo(Country);
+    Localization.belongsTo(Language);
+
     Reading.belongsToMany(WordEntry, { through: 'WordEntries_have_Readings' });
+
+    ReadingEntry.belongsTo(Reading);
+    ReadingEntry.belongsTo(Localization);
+
     SpeechPart.belongsToMany(WordEntry, {
       through: 'WordEntries_have_SpeechParts'
     });
+
+    SpeechPartEntry.belongsTo(Status);
+    SpeechPartEntry.belongsTo(Localization);
+
+    StatusEntry.belongsTo(Status);
+    StatusEntry.belongsTo(Localization);
+
     SubTerm.belongsToMany(WordEntry, { through: 'WordEntries_have_SubTerms' });
-    WordEntry.belongsToMany(Word, { through: 'Words_have_WordEntries' });
+
+    SubTermEntry.belongsTo(SubTerm);
+    SubTermEntry.belongsTo(Localization);
+
+    WordEntry.belongsTo(Localization);
+    WordEntry.belongsTo(Status);
+    WordEntry.belongsTo(Word);
   }
 }
 
