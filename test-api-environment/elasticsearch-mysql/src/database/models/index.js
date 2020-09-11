@@ -4,10 +4,13 @@ const models = [
   require('./Flag'),
   require('./FlagType'),
   require('./FlagLevel'),
+  require('./Language'),
   require('./Reading'),
   require('./SpeechPart'),
+  require('./Status'),
   require('./SubTerm'),
-  require('./Word')
+  require('./Word'),
+  require('./WordEntry')
 ];
 
 class Models {
@@ -34,21 +37,30 @@ class Models {
       Flag,
       FlagType,
       FlagLevel,
+      Language,
       Reading,
       SpeechPart,
+      Status,
       SubTerm,
-      Word
+      Word,
+      WordEntry
     } = database.models;
 
     AltWord.belongsTo(AltWordGroup);
     Flag.belongsTo(FlagLevel);
     Flag.belongsTo(FlagType);
 
-    AltWord.belongsToMany(Word, { through: 'Words_have_AltWords' });
-    Flag.belongsToMany(Word, { through: 'Words_have_Flags' });
-    Reading.belongsToMany(Word, { through: 'Words_have_Readings' });
-    SpeechPart.belongsToMany(Word, { through: 'Words_have_SpeechParts' });
-    SubTerm.belongsToMany(Word, { through: 'Words_have_SubTerms' });
+    WordEntry.hasOne(Language);
+    WordEntry.hasOne(Status);
+
+    AltWord.belongsToMany(WordEntry, { through: 'WordEntries_have_AltWords' });
+    Flag.belongsToMany(WordEntry, { through: 'WordEntries_have_Flags' });
+    Reading.belongsToMany(WordEntry, { through: 'WordEntries_have_Readings' });
+    SpeechPart.belongsToMany(WordEntry, {
+      through: 'WordEntries_have_SpeechParts'
+    });
+    SubTerm.belongsToMany(WordEntry, { through: 'WordEntries_have_SubTerms' });
+    WordEntry.belongsToMany(Word, { through: 'Words_have_WordEntries' });
   }
 }
 
