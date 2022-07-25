@@ -1,0 +1,3016 @@
+{
+  "-misia": {
+    "title": "-misia",
+    "slug": "-misia",
+    "speech": "noun",
+    "defined": true,
+    "excerpt": "from Greek for hate or hatred",
+    "sub_terms": [
+      {
+        "text": "Fat",
+        "full_title": "fatmisia"
+      },
+      {
+        "text": "Islam",
+        "full_title": "Islamomisia"
+      },
+      {
+        "text": "Trans",
+        "full_title": "transmisia"
+      }
+    ],
+    "reading": [
+      {
+        "text": "Beatley Library Anti-Oppression Guide",
+        "href": "https://simmons.libguides.com/anti-oppression#s-lib-ctab-10174165-1"
+      },
+      {
+        "text": "Anti-Oppression: Anti-Fatmisia",
+        "href": "https://simmons.libguides.com/anti-oppression/anti-fatmisia"
+      }
+    ],
+    "content": "\n\nfrom Greek for hate or hatred\n\n## Use\n\n-Misia can be appended to minoritised identifiers that are targeted for hate, such as fat (fatmisia), trans (transmisia), or Islam (Islamomisia).\n\n## Issues\n\n-Phobia is Greek for 'fear of'.\n\nWhen used as a suffix in the context of Islamophobia, transphobia, or fatphobia, it is implied that the individual or group has a _fear_ of individuals and communities who identify in those ways. Rather than a direct translation, however, the implication and subtext of these terms is one of prejudice and discrimination. Using the term phobia falsely masks hate as fear.\n\nAdditionally, people with anxiety disorders and mental illness can also experience phobias, so conflating prejudice and discrimination (attitudes and behaviours that can be changed) with medical conditions that cannot be changed additionally harms people who experience phobias from their anxiety disorders.\n\nAs such, using the term phobia removes the responsibility from those who exhibit prejudice and discrimination as it implies it is outside of their control.\n\n## Impact\n\nHateful actions of prejudice and discrimination are unfairly conflated with mental illness. It can create a false parallel where one could imply that actual phobias are something that can be controlled, which harms people who experience actual phobias.\n\nMeanwhile, people exhibiting prejudice and discrimination are given excuses for their bigoted behaviour and not held accountable for their actions.\n\n## Preferable To\n\n-phobia\n",
+    "basename": "-misia"
+  },
+  "-normative": {
+    "title": "-normative",
+    "slug": "-normative",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Hetero",
+        "full_title": "heternormative"
+      }
+    ],
+    "content": "\n",
+    "basename": "-normative"
+  },
+  "-passing": {
+    "title": "-passing",
+    "slug": "-passing",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "cis-",
+        "full_title": "cis-passing"
+      },
+      {
+        "text": "female-",
+        "full_title": "female-passing"
+      },
+      {
+        "text": "white-",
+        "full_title": "white-passing"
+      }
+    ],
+    "content": "\n",
+    "basename": "-passing"
+  },
+  "-phile": {
+    "title": "-phile",
+    "slug": "-phile",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "andro-",
+        "full_title": "andro-phile"
+      },
+      {
+        "text": "gyne-",
+        "full_title": "gyne-phile"
+      }
+    ],
+    "content": "\n",
+    "basename": "-phile"
+  },
+  "-phobia": {
+    "title": "-phobia",
+    "slug": "-phobia",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Fat",
+        "full_title": "Fatphobia"
+      },
+      {
+        "text": "Homo",
+        "full_title": "Homophobia"
+      },
+      {
+        "text": "Trans",
+        "full_title": "Transphobia"
+      }
+    ],
+    "content": "\n",
+    "basename": "-phobia"
+  },
+  "-splaining": {
+    "title": "-Splaining",
+    "slug": "-splaining",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Cissplaining",
+        "full_title": "Cissplaining"
+      },
+      {
+        "text": "Mansplaining",
+        "full_title": "Mansplaining"
+      },
+      {
+        "text": "Whitesplaining",
+        "full_title": "Whitesplaining"
+      }
+    ],
+    "content": "\n",
+    "basename": "-splaining"
+  },
+  "-tard": {
+    "title": "-tard",
+    "slug": "-tard",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "-tard"
+  },
+  "ableism": {
+    "title": "Ableism",
+    "slug": "ableism",
+    "defined": true,
+    "excerpt": "a system that places value on people’s bodies and minds based on societally constructed ideas of normalcy, intelligence, excellence, and productivity. These constructed ideas are deeply rooted in anti-Blackness, eugenics, colonialism, and capitalism.",
+    "speech": "noun",
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "reading": [
+      {
+        "text": "Ableism 2020: An Updated Definition",
+        "href": "https://www.talilalewis.com/blog/ableism-2020-an-updated-definition"
+      },
+      {
+        "text": "Longmore Lecture: Context, Clarity & Grounding",
+        "href": "https://www.talilalewis.com/blog/longmore-lecture-context-clarity-grounding"
+      }
+    ],
+    "content": "\n\na system that places value on people’s bodies and minds based on societally constructed ideas of normalcy, intelligence, excellence, and productivity. These constructed ideas are deeply rooted in anti-Blackness, eugenics, colonialism, and capitalism.\n\n— Talia \"TL\" Lewis\n\n## Impact\n\nTo paraphrase Lewis, ableism \"leads to people and society determining who is valuable and worthy based on a person’s appearance and/or their ability to [...] produce, excel, and 'behave.'\" You do not have to be disabled to experience ableism, and Disabled people can also reinforce ableism internally (manifesting as harm to themselves) and externally (harm to other disabled people).\n",
+    "basename": "ableism"
+  },
+  "ableist-language": {
+    "title": "Ableist language",
+    "slug": "ableist-language",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "ableist-language"
+  },
+  "abuse": {
+    "title": "Abuse",
+    "slug": "abuse",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "abuse"
+  },
+  "acquired-immune-deficiency-syndrome": {
+    "title": "Acquired Immune Deficiency Syndrome (AIDS)",
+    "slug": "acquired-immune-deficiency-syndrome",
+    "defined": false,
+    "content": "",
+    "basename": "acquired-immune-deficiency-syndrome"
+  },
+  "african-american-vernacular-english": {
+    "title": "African American Vernacular English (AAVE)",
+    "slug": "african-american-vernacular-english",
+    "defined": false,
+    "content": "",
+    "basename": "african-american-vernacular-english"
+  },
+  "agender": {
+    "title": "agender",
+    "slug": "agender",
+    "defined": false,
+    "content": "",
+    "basename": "agender"
+  },
+  "alcoholism": {
+    "title": "alcoholism",
+    "slug": "alcoholism",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "alcoholism"
+  },
+  "ambulatory-wheelchair": {
+    "title": "Ambulatory Wheelchair",
+    "slug": "ambulatory-wheelchair",
+    "defined": false,
+    "content": "",
+    "basename": "ambulatory-wheelchair"
+  },
+  "american": {
+    "title": "American",
+    "slug": "american",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "African",
+        "full_title": "African American"
+      },
+      {
+        "text": "Asian",
+        "full_title": "Asian American"
+      },
+      {
+        "text": "Black",
+        "full_title": "Black American"
+      },
+      {
+        "text": "Hispanic",
+        "full_title": "Hispanic American"
+      },
+      {
+        "text": "Indigenous",
+        "full_title": "Indigenous American"
+      },
+      {
+        "text": "Latin",
+        "full_title": "Latin American"
+      }
+    ],
+    "content": "\n",
+    "basename": "american"
+  },
+  "ancestors": {
+    "title": "Ancestors",
+    "slug": "ancestors",
+    "defined": false,
+    "content": "",
+    "basename": "ancestors"
+  },
+  "anti-": {
+    "title": "Anti-",
+    "slug": "anti-",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "-blackness",
+        "full_title": "anti-blackness"
+      },
+      {
+        "text": "-queerness",
+        "full_title": "anti-queerness"
+      },
+      {
+        "text": "-semitism",
+        "full_title": "antisemitism"
+      },
+      {
+        "text": "-trans",
+        "full_title": "anti-trans"
+      }
+    ],
+    "content": "\n",
+    "basename": "anti-"
+  },
+  "anxiety-disorders": {
+    "title": "Anxiety disorders",
+    "slug": "anxiety-disorders",
+    "defined": false,
+    "content": "",
+    "basename": "anxiety-disorders"
+  },
+  "aromantic": {
+    "title": "aromantic",
+    "slug": "aromantic",
+    "defined": false,
+    "content": "",
+    "basename": "aromantic"
+  },
+  "asexual": {
+    "title": "asexual",
+    "slug": "asexual",
+    "defined": false,
+    "content": "",
+    "basename": "asexual"
+  },
+  "asian-american": {
+    "title": "Asian-American",
+    "slug": "asian-american",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "content": "\numbrella term for people of Asian descent (immigrant or natural born) who live in and/or are from the United States.\n\n## Considerations\n\nAs many countries and cultures are enveloped within this umbrella term, try to be as specific as possible. When speaking of Vietnamese-Americans or Chinese-Americans, use those terms instead. Be careful to not assume that every English-speaking Asian person you meet in the U.S. is necessarily Asian-American. (For one, they could be Asian-Canadian or have any other number of nationalities. In general, be mindful of accuracy and confirm with relevant parties.\n\n## Note\n\nCan be shortened to AsAm or AA by those who identify as Asian American. Be mindful of context and always spell out on first reference. If you aren't Asian-American, it's best to keep it spelled out.\n",
+    "basename": "asian-american"
+  },
+  "asian": {
+    "title": "Asian",
+    "slug": "asian",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "-American",
+        "full_title": "Asian-American"
+      },
+      {
+        "text": "East",
+        "full_title": "East Asian"
+      },
+      {
+        "text": "South",
+        "full_title": "South Asian"
+      },
+      {
+        "text": "Southeast",
+        "full_title": "Southeast Asian"
+      }
+    ],
+    "content": "\n",
+    "basename": "asian"
+  },
+  "assigned-at-birth": {
+    "title": "assigned at birth",
+    "slug": "assigned-at-birth",
+    "defined": false,
+    "content": "",
+    "basename": "assigned-at-birth"
+  },
+  "attention-deficithyperactivity-disorder": {
+    "title": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+    "slug": "attention-deficithyperactivity-disorder",
+    "defined": false,
+    "content": "",
+    "basename": "attention-deficithyperactivity-disorder"
+  },
+  "attraction": {
+    "title": "Attraction",
+    "slug": "attraction",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Aesthetic",
+        "full_title": "Aesthetic Attraction"
+      },
+      {
+        "text": "Platonic",
+        "full_title": "Platonic Attraction"
+      },
+      {
+        "text": "Sexual",
+        "full_title": "Sexual Attraction"
+      }
+    ],
+    "content": "\n",
+    "basename": "attraction"
+  },
+  "autism-spectrum": {
+    "title": "Autism spectrum",
+    "slug": "autism-spectrum",
+    "defined": false,
+    "content": "",
+    "basename": "autism-spectrum"
+  },
+  "barbaric": {
+    "title": "Barbaric",
+    "slug": "barbaric",
+    "flag": {
+      "text": "Neo-Colonial/Racist slur",
+      "level": "avoid"
+    },
+    "defined": true,
+    "excerpt": "something which is obscenely cruel; primitive; unsophisticated.",
+    "speech": "adjective",
+    "reading": [
+      {
+        "text": "is the word barbarian a slur?",
+        "href": "https://seetobehumanityearth.wordpress.com/2015/07/16/is-the-term-barbarian-a-slur/"
+      },
+      {
+        "text": "Barbarian wiki",
+        "href": "https://en.wikipedia.org/wiki/Barbarian"
+      }
+    ],
+    "alt_words": [
+      "cruel",
+      "vicious",
+      "obscene",
+      "feral"
+    ],
+    "content": "\n\nsomething which is obscenely cruel; primitive; unsophisticated\n\n## Issues\n\nBarbarian originates from the Greek word _bárbaros_ meaning \"babbler\", to denote the \"unintelligible sounds\" (_\"bar bar bar\"_) made by foreign speakers.\nSimilar words exist in many other languages, for the identical purpose labeling a \"strange\"/\"foreign\" person/culture.\n\nIn modern day usage, you can notice this rhetoric being employed almost always for the purpose of demonizing \"foreign\" (more often than not from the global south) cultures - cultures that need to be civilized;\ncultures that need to be colonized to rescue them from themselves. A perfect lingual weapon for warmongers and racists alike. Equally repulsive sibling of \"savage\".\n\n## Impact\n\nWhen you use words, that are in vogue primarily inside circles of bigots, with racist etymologies, it's a wilful act of violence, ignorance and an indication to the vilified and minoritised communities that their history of wounds and abuses are inconsequential to our words.\n\n## Usage Tip\n\nAvoid words that have obscene etymologies. There is almost always a better alternative: an inclusive and a less hurtful one.\n",
+    "basename": "barbaric"
+  },
+  "bias": {
+    "title": "Bias",
+    "slug": "bias",
+    "defined": false,
+    "content": "",
+    "basename": "bias"
+  },
+  "bierasure": {
+    "title": "Bierasure",
+    "slug": "bierasure",
+    "speech": "noun",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Erasure of Bisexuality",
+        "href": "https://www.glaad.org/bisexual/bierasure"
+      }
+    ],
+    "content": "\n\nthe questioning or denial of the existance or legitimacy of [Bisexuality](/definitions/bisexual).\n\n## Impact\n\n\"Bi+ people experience discrimination from both heterosexual and sexual minority communities, related to repeatedly needing to “come out” as bi+.\n\nThis double discrimination can lead to isolation and loneliness, which can be harmful for mental health.\" — Sabra Katz-Wise\n",
+    "basename": "bierasure"
+  },
+  "bipolar": {
+    "title": "Bipolar",
+    "slug": "bipolar",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "medical appropriation"
+    },
+    "content": "\n",
+    "basename": "bipolar"
+  },
+  "biromantic": {
+    "title": "Biromantic",
+    "slug": "biromantic",
+    "speech": "adj",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Sorting Out Romantic vs Sexual Feelings",
+        "href": "http://teenhealthsource.com/blog/faq-sorting-out-romantic-vs-sexual-feelings/"
+      },
+      {
+        "text": "Being Bi On The Asexual Spectrum",
+        "href": "https://www.curvemag.com/Lifestyle/Being-Bi-On-The-Asexual-Spectrum-2141/"
+      },
+      {
+        "text": "Here’s What It Means When Your Romantic and Sexual Orientations Are Different",
+        "href": "https://everydayfeminism.com/2016/07/cross-orientation-101/"
+      }
+    ],
+    "content": "\n\nof, relating to, or characterised by being romantically attracted to more than one gender.\n\n## Note\n\nBiromantic does not imply any particular kind of sexual attraction, or sexual attraction at all. A biromantic person may be asexual, homosexual, heterosexual, [bisexual](/definitions/bisexual), [pansexual](/definitions/pansexual), etc.\n\nBiromantic does not preclude romantic attraction to [non-binary](/definitions/non-binary) or [transgender](/definitions/transgender) people.\n",
+    "basename": "biromantic"
+  },
+  "bisexual": {
+    "title": "Bisexual",
+    "slug": "bisexual",
+    "speech": "adj",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Am I Bisexual?",
+        "href": "http://www.bisexualindex.org.uk/index.php/AmIBisexual"
+      }
+    ],
+    "content": "\n\nof, relating to, or characterised by being sexually attracted to more than one gender.\n\n## Note\n\nBisexuality does not preclude attraction to [non-binary](/definitions/non-binary) or [transgender](/definitions/transgender) people.\n\n## Other languages\n\n[Nederlands](/definitions/nl_NL/biseksueel)\n",
+    "basename": "bisexual"
+  },
+  "black-asian-minority-ethnic": {
+    "title": "Black Asian Minority Ethnic (BAME)",
+    "slug": "black-asian-minority-ethnic",
+    "defined": false,
+    "content": "",
+    "basename": "black-asian-minority-ethnic"
+  },
+  "black-indigenous-people-of-color": {
+    "title": "Black Indigenous People of Color (BIPOC)",
+    "slug": "black-indigenous-people-of-color",
+    "defined": false,
+    "content": "",
+    "basename": "black-indigenous-people-of-color"
+  },
+  "black": {
+    "title": "Black",
+    "slug": "black",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "men (BM)",
+        "full_title": "Black men (BM)"
+      },
+      {
+        "text": "people (BP)",
+        "full_title": "Black people (BP)"
+      },
+      {
+        "text": "women (BW)",
+        "full_title": "Black women (BW)"
+      }
+    ],
+    "content": "\n",
+    "basename": "black"
+  },
+  "boogaloo": {
+    "title": "Boogaloo",
+    "slug": "boogaloo",
+    "flag": {
+      "text": "Racist Symbol",
+      "level": "avoid"
+    },
+    "defined": true,
+    "excerpt": "Appropriated by Alt-Right and White Supremacist groups as a thinly veiled code for a race-based or civil war, boogaloo was originally both a dance and musical genre.",
+    "speech": "noun",
+    "reading": [
+      {
+        "text": "Who Owns Boogaloo?",
+        "href": "https://www.npr.org/sections/codeswitch/2020/05/31/864402190/who-owns-boogaloo"
+      },
+      {
+        "text": "The Boogaloo: Extremists’ New Slang Term for A Coming Civil War",
+        "href": "https://www.adl.org/blog/the-boogaloo-extremists-new-slang-term-for-a-coming-civil-war"
+      },
+      {
+        "text": "Boogaloo movement",
+        "href": "https://en.wikipedia.org/wiki/Boogaloo_movement#:~:text=The%20Boogaloo%20movement%2C%20members%20of,they%20call%20the%20%22boogaloo%22."
+      },
+      {
+        "text": "Tiki bars are built on cultural appropriation and colonial nostalgia. Where’s the reckoning?",
+        "href": "https://www.latimes.com/food/story/2019-11-27/tiki-bar-problems"
+      },
+      {
+        "text": "The Boogaloo Movement Is Not What You Think",
+        "href": "https://www.bellingcat.com/news/2020/05/27/the-boogaloo-movement-is-not-what-you-think/"
+      }
+    ],
+    "content": "\n\n\noriginal meaning: A type of music made up of a mix of mambo, cha cha, pachanga, doo-wop and soul. \"Boogaloo\" has since been appropriated by Alt-Right and White Supremacists groups to refer to a race-based civil war. Other terms for Boogaloo include: _boog, boojahideen, big igloo, and big luau_.\n\nThe co-opted use of “Boogaloo” is a [dog-whistle](https://en.m.wikipedia.org/wiki/Dog-whistle_politics), used to communicate about, and signal support for militias inciting violence to escalate and accelerate violent uprisings against the government. Part of electing to use this term, as well as Hawaiian shirts and igloos is to avoid existing automated content flags used on social media sites.\n\nIts usage is derived from memes about the film _Breakin’ 2: Electric Boogaloo_, riffing on the title – notably, as “Civil War 2: Electric Boogaloo”. Appending “Electric Boogaloo” to other concepts as a joke was born in and largely popularized by early internet message boards such as Something Awful and 4chan.\n\nSome Alt-Right members self-identify as \"Boogaloo Boys\" (or \"Bois\"), or speak of \"preparing / showing up for the Boogaloo\". Many dress in Hawaiian shirts and/or military wear to distinguish themselves at protests and gatherings. One effect of wearing the Hawaiian shirt is to co-opt the public’s existing notions about Hawaiian culture with peaceful, impartial observation, and not radical militarism.\n\n## Issues\n\nSimilarly to the [OK Hand symbol](/definitions/ok-hand), the word itself does not have racist origins (and in fact, is a product of the Latinx music community) and neither does the original meme (a joke about movie sequels). However, language evolves, and \"Boogaloo\" has become a term used quite seriously by Alt-Right and White Supremacist communities.\n\nIt should be noted that this approach of indoctrinating symbols of hate is one long-documented, and [used for the Swastika as well](https://theconversation.com/how-nazis-twisted-the-swastika-into-a-symbol-of-hate-83020)\n\n## Related symbols\n\nBoth the Hawaiian shirt and Igloo snow huts are associated with Indigenous cultures. Before being co-opted by the Boogaloo movement, both symbols were co-opted by American popular culture.\n\nHawaiian shirts were popularized by the Tiki culture movement, created after American military returned from being stationed in the South Pacific during World War II. Due to a lack of including and elevating Polynesian people in the movement, it is considered to be both cultural appropriation and colonial nostalgia.\n\n## Impact\n\nAlthough this was previously a non-violent / non-hateful meme, continuing to use it supports the plausible deniability of those who do use it with serious intent. Those who are most vulnerable will not know your intent, and therefore will feel the impact of hurt and fear, regardless.\n",
+    "basename": "boogaloo"
+  },
+  "bropropriating": {
+    "title": "Bropropriating",
+    "slug": "bropropriating",
+    "defined": false,
+    "content": "",
+    "basename": "bropropriating"
+  },
+  "brown": {
+    "title": "Brown",
+    "slug": "brown",
+    "defined": false,
+    "content": "",
+    "basename": "brown"
+  },
+  "bullying": {
+    "title": "Bullying",
+    "slug": "bullying",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "bullying"
+  },
+  "burka": {
+    "title": "Burka",
+    "slug": "burka",
+    "defined": false,
+    "content": "",
+    "basename": "burka"
+  },
+  "child-of-a-deaf-adult": {
+    "title": "Child of a Deaf Adult (CODA)",
+    "slug": "child-of-a-deaf-adult",
+    "defined": false,
+    "content": "",
+    "basename": "child-of-a-deaf-adult"
+  },
+  "childhood-trauma": {
+    "title": "childhood trauma",
+    "slug": "childhood-trauma",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "childhood-trauma"
+  },
+  "cisgender": {
+    "title": "Cisgender",
+    "slug": "cisgender",
+    "speech": "adj",
+    "defined": true,
+    "content": "\n\nof, relating to, or characterised by being a gender that matches the gender they were assigned at birth.\n\nThe opposite of [transgender](/definitions/transgender).\n",
+    "basename": "cisgender"
+  },
+  "climate-change": {
+    "title": "Climate change",
+    "slug": "climate-change",
+    "defined": false,
+    "content": "",
+    "basename": "climate-change"
+  },
+  "colonial-narrative": {
+    "title": "Colonial narrative",
+    "slug": "colonial-narrative",
+    "defined": false,
+    "content": "",
+    "basename": "colonial-narrative"
+  },
+  "colonialism": {
+    "title": "Colonialism",
+    "slug": "colonialism",
+    "defined": false,
+    "content": "\n",
+    "basename": "colonialism"
+  },
+  "colorism": {
+    "title": "colorism",
+    "slug": "colorism",
+    "defined": false,
+    "content": "",
+    "basename": "colorism"
+  },
+  "complex-post-traumatic-stress-disorder": {
+    "title": "Complex Post-Traumatic Stress Disorder (PTSD)",
+    "slug": "complex-post-traumatic-stress-disorder",
+    "defined": false,
+    "content": "",
+    "basename": "complex-post-traumatic-stress-disorder"
+  },
+  "crazy": {
+    "title": "crazy",
+    "slug": "crazy",
+    "flag": {
+      "text": "Ableist language",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "abundant",
+      "bizarre",
+      "enormous",
+      "ludicrous",
+      "obnoxious",
+      "outlandish",
+      "ridiculous",
+      "unbelievable",
+      "unexpected",
+      "unfamiliar",
+      "unreal",
+      "scary",
+      "shocking",
+      "strange",
+      "wicked",
+      "wild"
+    ],
+    "content": "\n\nmentally deranged; demented; insane.\n\n## Issues\n\nCrazy is very commonly used as an adjective to embody a vast array of ideas, often not specifically. It is used so frequently that it sometimes is a filler. Crazy can also be used in a derogatory manner for someone with mental or psychiatric disabilities.\n\n## Impact\n\nBy using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling.\n",
+    "basename": "crazy"
+  },
+  "crippled": {
+    "title": "Crippled",
+    "slug": "crippled",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "crippled"
+  },
+  "cultural-appropriation": {
+    "title": "cultural appropriation",
+    "slug": "cultural-appropriation",
+    "defined": false,
+    "content": "",
+    "basename": "cultural-appropriation"
+  },
+  "deaf-and-deaf": {
+    "title": "deaf and Deaf",
+    "slug": "deaf-and-deaf",
+    "defined": false,
+    "content": "",
+    "basename": "deaf-and-deaf"
+  },
+  "demi": {
+    "title": "Demi",
+    "slug": "demi",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "-boy",
+        "full_title": "Demi-boy"
+      },
+      {
+        "text": "-girl",
+        "full_title": "Demi-girl"
+      },
+      {
+        "text": "-romantic",
+        "full_title": "Demi-romantic"
+      },
+      {
+        "text": "-sexual",
+        "full_title": "Demi-sexual"
+      }
+    ],
+    "content": "\n",
+    "basename": "demi"
+  },
+  "demiboy": {
+    "title": "demiboy",
+    "slug": "demiboy",
+    "defined": false,
+    "content": "",
+    "basename": "demiboy"
+  },
+  "demigirl": {
+    "title": "demigirl",
+    "slug": "demigirl",
+    "defined": false,
+    "content": "",
+    "basename": "demigirl"
+  },
+  "depression": {
+    "title": "Depression",
+    "slug": "depression",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "depression"
+  },
+  "derpy": {
+    "title": "derpy",
+    "slug": "derpy",
+    "flag": {
+      "text": "Ableist Term",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "adjective",
+    "alt_words": [
+      "ridiculous",
+      "clumsy",
+      "foolish",
+      "misshapen",
+      "malformed",
+      "silly"
+    ],
+    "reading": [
+      {
+        "text": "Derp is ableist and offensive",
+        "href": "https://americandramedy.blogspot.com/2013/06/derp-is-ableist-and-offensive-stop.html"
+      },
+      {
+        "text": "Ableist words and terms to avoid",
+        "href": "https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html"
+      }
+    ],
+    "content": "\n\nclumsy, foolish, unattractive, or otherwise unintelligent act or person.\n\n## Related Words\n\nderp, derp face, herp derp, hurr durr\n\n## Issues\n\nDerpy is very commonly used as an adjective to describe someone's clumsy or foolish behavior, occasionally that of the speaker themselves. Sometimes it is used as a direct replacement of the [r-word](https://www.selfdefined.app/definitions/r-word/).\n\nIt is also used to describe someone else's physical features as unattractive or akin to someone with intellectual and developmental disabilities. In imagery, derpy or a so-called \"derp face\", is often signified by crossed eyes, a stuck out tongue, or permanent facial differences.\n\n## Origins\n\nThe word \"derp\" found its first known use in the 1998 film __Baseketball__ by the creators of the American animated sitcom, __South Park__, and later in __South Park__ itself in the name of the character [\"Mr Derp\"](https://southpark.fandom.com/wiki/Mr._Derp). The creators of the show have expressed that the term is uttered when one \"screws up\". In these early uses the word is interchangeable with the words \"duh\", \"hur\" and \"dur\" that came before it, and may have directly or indirectly originated from them.\n\nThe word evolved in 4chan and other forums and began being associated with memes, where the \"derpy\" imagery began. It is there where it became associated with intellectual and developmental disabilities (I/IDD) specifically, as people started overlaying \"derp\" over photographs of children with I/DD.\n\n## Impact\n\nRegardless of whether derpy is being used to describe yourself, or someone with or without an I/DD or physical disability, use of the word contributes to the dehumanisation, stigmatisation, and negative perceptions of people with an I/DD or physical (especially facial) differences.\n\nBy using ableist language, we are perpetuating violence against people who experience mental, developmental, or physical disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling. If you are describing a person's silly actions or expressions use a more relevant, descriptive word.\n\nIf you are using it to describe or refer to a person's disability or physical difference, don't.\n",
+    "basename": "derpy"
+  },
+  "digital-blackface": {
+    "title": "digital Blackface",
+    "slug": "digital-blackface",
+    "defined": true,
+    "Speech": "noun",
+    "reading": [
+      {
+        "text": "We Need to Talk About Digital Blackface in Reaction GIFs",
+        "href": "https://www.teenvogue.com/story/digital-blackface-reaction-gifs"
+      },
+      {
+        "text": "Memes and Misogynoir",
+        "href": "https://www.theawl.com/2014/08/memes-and-misogynoir/"
+      }
+    ],
+    "content": "\n\na form of appropriation where non-Black individuals use memes and gifs featuring Black people and even emojis with dark skin; a 21st century version of Black minstrelsy, which was prevalent in the 19th and 20th centuries\n\n## Issues\n\nDigital Blackface is one of many ways of dehumanising Black individuals into exaggerated versions of themselves, especially Black women. Rarely are Black characters given subtle feelings, emotion or actions. Additionally, power comes into it as a non-Black person is using a Black person as a mask (hence where the minstrelsy comes in).\n\nDigital Blackface is also an issue of representation and culture appropriation: memes and gifs are often used in spaces where no real Black people are present, which presents them as a prop to be used in all-white spaces. Black culture is stolen from Black people and commodified by non-Black people.\n\n## Examples\n\n- Online personas: It can go further than appropration. Falsified personas are easy to spot as they almost always use terms like \"as a black woman...\" [sic] and resort to incorrect and illegitimate use of African American Vernacular English (AAVE).[1](https://www.buzzfeednews.com/article/ryanhatesthis/your-slip-is-showing-4chan-trolls-operation-lollipop)\n\n  \"On Twitter lie countless handles featuring a Black person’s image, run by users who are most assuredly not Black. These accounts, which often include a “ghetto” name — the formula prefix “La+” is a favored trope — are riddled with poor attempts at Black vernacular, and feature stereotypes from the minstrel stage.\" [2](https://www.theawl.com/2014/08/memes-and-misogynoir/)\n\n- Gifs\n\n  \"For while reaction GIFs can and do every feeling under the sun, white and nonblack users seem to especially prefer GIFs with black people when it comes to emitting their most exaggerated emotions. Extreme joy, annoyance, anger and occasions for drama and gossip are a magnet for images of black people, especially black femmes.\" [1](https://www.teenvogue.com/story/digital-blackface-reaction-gifs)\n\n- Emojis (using a darker-than-your-own skin-tone, especially when you are white)[1](https://www.npr.org/sections/codeswitch/2018/03/21/425573955/white-skin-black-emojis)[2](https://techcrunch.com/2017/10/01/thoughts-on-white-people-using-dark-skinned-emoji/)\n\n- Simple actions like using dark toned emoji in text or social media posts\n\n## What To Do (instead)\n\nIf you are not Black, before using a Black person's identity to express or convey an idea, take a moment to reflect upon what you're doing and what message you're trying to convey. In most situations, you would probably be better off picking a gif or meme of a non-Black person, better yet, of a race you identify with.\n",
+    "basename": "digital-blackface"
+  },
+  "disability": {
+    "title": "Disability",
+    "slug": "disability",
+    "defined": false,
+    "content": "",
+    "basename": "disability"
+  },
+  "disabled": {
+    "title": "Disabled",
+    "slug": "disabled",
+    "defined": false,
+    "content": "",
+    "basename": "disabled"
+  },
+  "discordant-couples": {
+    "title": "Discordant couples",
+    "slug": "discordant-couples",
+    "defined": false,
+    "content": "",
+    "basename": "discordant-couples"
+  },
+  "discrimination": {
+    "title": "Discrimination",
+    "slug": "discrimination",
+    "defined": false,
+    "content": "",
+    "basename": "discrimination"
+  },
+  "dissociative-identity-disorder": {
+    "title": "Dissociative Identity Disorder",
+    "slug": "dissociative-identity-disorder",
+    "speech": "noun",
+    "defined": true,
+    "content": "\n\nDissociative identity disorder (DID) is a mental illness that involves disruptions or breakdowns of memory, awareness, identity and/or perception. It can also include the existence of two or more distinct identities (or “personality states”). The distinct identities are accompanied by changes in behavior, memory and thinking.\n\n## Read also\n\n- [plural](/definitions/plural)\n",
+    "basename": "dissociative-identity-disorder"
+  },
+  "dominant-culture-habits": {
+    "title": "Dominant culture habits",
+    "slug": "dominant-culture-habits",
+    "defined": false,
+    "content": "",
+    "basename": "dominant-culture-habits"
+  },
+  "dominant-culture": {
+    "title": "Dominant culture",
+    "slug": "dominant-culture",
+    "defined": false,
+    "content": "",
+    "basename": "dominant-culture"
+  },
+  "dude": {
+    "title": "dude",
+    "slug": "dude",
+    "defined": true,
+    "flag": {
+      "level": "avoid"
+    },
+    "alt_words": {
+      "expression of astonishment": [
+        "wow",
+        "oh my word",
+        "yikes"
+      ],
+      "noun": [
+        "y'all",
+        "friend",
+        "mate",
+        "fam",
+        "folks",
+        "pal*",
+        "buddy*"
+      ]
+    },
+    "reading": [
+      {
+        "text": "Etymonline entry",
+        "href": "https://www.etymonline.com/word/dude"
+      }
+    ],
+    "content": "\n\ncolloquially, a man; a discourse marker expressing masculine solidarity; an expression of astonishment when used alone\n\n## Issues\n\n\"Dude\" was originally used to refer to a man who paid a lot of attention to his appearance, but became more broadly used to describe any man as part of African American Vernacular English in the 1960s. It was subsequently appropriated by white men in the 1980s, particularly on the West Coast, and has since grown to be used broadly by white men and women as a noun as well as a discourse marker.\n\nWhen used as a discourse marker, it carries the connotation that the speaker believes that they are speaking to a man; however, as both a discourse marker and a noun, it is frequently used without regard for the gender or pronouns of listeners.\n\n## Impact\n\nRegardless of the intent of the speaker, prefacing a statement with \"dude\" risks misgendering its audience and perpetuating a culture that favors traditional masculinity as the baseline for gender. Proponents of using \"dude\" commonly defend its usage aggressively by claiming that they use it in a gender-neutral way (which is not possible) and that anyone negatively impacted by its usage is wrong for not accepting that and chooses to apply the gendered interpretation. The argument fails to acknowledge that society dictates and reinforces gender, regardless of the individual interpretation. The ubiquity of that argument often deters those who are negatively impacted from bringing attention to the usage of \"dude\" as their experiences are often [gaslighted](/definitions/gaslighting).\n\n## Alt Words Mindfulness Note\n\nBefore using colloquial terms of endearment, it's important to be mindful of power and context. While our intent may be to make people feel at ease or comfortable, we can have the opposite effect. For example, \"buddy\" or \"pal\" from an older person to younger person or a manager to employee can feel infantilising or pejorative; this becomes exacerbated because of the power differential in the relationship. The person in less power often isn't in a position to correct. There's no one-size-fits-all model; instead we should seek to address people with consent first and course correct. It's not about getting it perfect at first, it's about getting it right in the end.\n",
+    "basename": "dude"
+  },
+  "dumb": {
+    "title": "dumb",
+    "slug": "dumb",
+    "flag": {
+      "text": "ableist language",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "adjective",
+    "alt_words": [
+      "basic",
+      "incomprehensible",
+      "nonsensical",
+      "redundant",
+      "shallow",
+      "silly",
+      "senseless",
+      "strange",
+      "weird",
+      "unfamiliar",
+      "unfathomable",
+      "unnecessary"
+    ],
+    "reading": [
+      {
+        "text": "Etymonline entry",
+        "href": "https://www.etymonline.com/word/dumb"
+      },
+      {
+        "text": "The Case Against Stupid",
+        "href": "https://ischemgeek.wordpress.com/2014/02/15/the-case-against-stupid/"
+      },
+      {
+        "text": "National Association of the Deaf FAQ",
+        "href": "https://www.nad.org/resources/american-sign-language/community-and-culture-frequently-asked-questions/"
+      },
+      {
+        "text": "National Geographic Creation of Sign Language",
+        "href": "https://www.nationalgeographic.com/history/magazine/2019/05-06/creation-of-sign-language/"
+      },
+      {
+        "text": "Stereotypes and Evaluations of People who are D/deaf [PDF, 363KB]",
+        "href": "https://digitalcommons.unf.edu/cgi/viewcontent.cgi?article=1020&context=honors"
+      },
+      {
+        "text": "StackExchange \"Who first wrote about deafness\"",
+        "href": "https://history.stackexchange.com/questions/7293/who-first-wrote-about-deafness"
+      }
+    ],
+    "content": "\n\nnon-verbal, non-speaking, silent, refraining from speaking or unable to speak; sometimes __mute__ which can also be ableist; colloquially used to mean unintelligent or senseless\n\n## Issues\n\nDumb initially meant \"mute, silent, refraining or unable to speak.\" Old German __thumb__ carried a dual meaning of \"stupid\", which eventually took over.\n\nAn oft-cited quote by Greek philosopher Aristotle reads, \"Men that are deaf are in all cases also dumb.**\" Historically the Greeks valued physical prowess (as evidenced by their invention of the Olympic Games) and their language, so anyone who lacked the ability to perform certain physical tasks or conduct reason (verbalise reason, rather) in their language was considered invaluable to society. The historical context is still ever present today, where we devalue disabled bodies and minds.\n\nUsing dumb reinforces these cultural values.\n\n**Isolation to only \"men\" also reinforces the historical patriarchical ideas that intersected with these ableist ones.\n\n## Impact\n\nUsing the word dumb reinforces the idea that Deaf and/or non-speaking/non-verbal people do not have valuable ideas to contribute, and that we only value people based on their idea to generate ideas and goods (see [Ableism](/definitions/ableism))\n\nBy using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling.\n",
+    "basename": "dumb"
+  },
+  "east-asian": {
+    "title": "East Asian",
+    "slug": "east-asian",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "content": "\numbrella term for people of East Asian descent. East Asian countries include China, Hong Kong, Macau, Mongolia, North Korea, South Korea, Japan, and Taiwan\n\n## Considerations\n\nAs many countries and cultures are enveloped within this umbrella term, try to be as specific as possible. If you know or can ask someone if they are Japanese, for example, that's better as it's more specific.\n\nDo not assume someone is East Asian because of certain physical characteristics or language knowledge.\n\nAdditionally, these Asian subregions are important to differentiate, as some regions were most fraught to imperialism and colonisation than others.\n",
+    "basename": "east-asian"
+  },
+  "ebonics": {
+    "title": "Ebonics",
+    "slug": "ebonics",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "racist language"
+    },
+    "content": "",
+    "basename": "ebonics"
+  },
+  "egalitarian": {
+    "title": "Egalitarian",
+    "slug": "egalitarian",
+    "defined": false,
+    "content": "",
+    "basename": "egalitarian"
+  },
+  "ehlers-danlos-syndromes": {
+    "title": "Ehlers-Danlos Syndromes (EDS)",
+    "slug": "ehlers-danlos-syndromes",
+    "defined": false,
+    "content": "",
+    "basename": "ehlers-danlos-syndromes"
+  },
+  "empathy": {
+    "title": "Empathy",
+    "slug": "empathy",
+    "defined": false,
+    "content": "",
+    "basename": "empathy"
+  },
+  "enby": {
+    "title": "enby",
+    "slug": "enby",
+    "defined": false,
+    "content": "",
+    "basename": "enby"
+  },
+  "english-as-second-language": {
+    "title": "English as Second Language (ESL)",
+    "slug": "english-as-second-language",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "English as learning-language (ELL)",
+      "or non-native",
+      "or omit (because do you really know, for sure?)"
+    ],
+    "reading": [
+      {
+        "href": "https://benchmarkeducation.com/best-practices-library/supporting-english-language-learners-in-reading-writing.html#section_2",
+        "text": "ELL Glossary by Benchmark Education"
+      }
+    ],
+    "content": "\n\nthe teaching of English to people who speak a different language and who live in a country where English is the main language spoken\n\n## Issues\n\nMonolinguist, English-only speakers often refer to people who don't speak English natively as \"ESL\" or say they are learning a \"second language\". More often than not, this is not true, as many people are multi-lingual with 3 or more languages\n\n## Impact\n\nIt makes false assumptions about English learners, centres English as the \"default\" or \"expected\" first language, ignoring that many people learn multiple (>3), non-English languages first.\n",
+    "basename": "english-as-second-language"
+  },
+  "entitlement": {
+    "title": "Entitlement",
+    "slug": "entitlement",
+    "defined": false,
+    "content": "",
+    "basename": "entitlement"
+  },
+  "equality": {
+    "title": "Equality",
+    "slug": "equality",
+    "defined": false,
+    "content": "",
+    "basename": "equality"
+  },
+  "equity": {
+    "title": "Equity",
+    "slug": "equity",
+    "defined": false,
+    "content": "",
+    "basename": "equity"
+  },
+  "ethnicity": {
+    "title": "Ethnicity",
+    "slug": "ethnicity",
+    "defined": false,
+    "content": "",
+    "basename": "ethnicity"
+  },
+  "fat": {
+    "defined": false,
+    "title": "Fat",
+    "slug": "fat",
+    "sub_terms": [
+      {
+        "text": "-phobia",
+        "full_title": "Fatphobia"
+      },
+      {
+        "text": "Shaming",
+        "full_title": "Fat Shaming"
+      },
+      {
+        "text": "Activism",
+        "full_title": "Fat Activism"
+      },
+      {
+        "text": "Liberation",
+        "full_title": "Fat Liberation"
+      }
+    ],
+    "content": "\n",
+    "basename": "fat"
+  },
+  "fatphobia": {
+    "title": "Fatphobia",
+    "slug": "fatphobia",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "reading": [
+      {
+        "text": "Sizeism and Fatphobia",
+        "href": "https://www.srhweek.ca/providers/people-and-communities/sizeism-and-fatphobia/"
+      },
+      {
+        "text": "Anti-Oppression: Anti-Fatmisia",
+        "href": "https://simmons.libguides.com/anti-oppression/anti-fatmisia"
+      }
+    ],
+    "content": "\n\nthe fear, hatred, and stigmitasation of fat people.\n\n## Issues\n\nFatphobia is the racialised, classist, and ableist tool of oppression that codifies a “ideal” body type that centres a white, Western aesthetic, demands time and resources that people may not have, and attempts to correlate thinness and heathliness—perpetuating white supremacist violence against people of colour, perpetuates classist oppression of people living with limited resources, and the ableist idea of healthiness as an indicator of human value.\n\n## Impact\n\nA history of being ignored and shamed prevents many fat people from visiting medical professionals even if they have the financial and physical means to do so. Medical professionals hold fatphobic biases and often prescribe weight loss as a default instead of listening to their fat patients' concerns.\n\nEmployers will pay fat employees less than their thin colleagues and offer them no protection from weight stigma in the workplace, as their fatphobic biases lead to their perception of fat employees as lazy, less intelligent, and unmotivated.\n\nLaw enforcement officers are less likely to believe fat people reporting sexual assaults, as their fatphobic biases lead them to think of fat people as unattractive, not sexually active, or undesirable.\n\n## Note\n\nWhile fatphobia is a more widely known term, many prefer fatmisia, as [-misia] means hate or hatred of, which more accurately describes the prejudice and discrimination.\n",
+    "basename": "fatphobia"
+  },
+  "fem": {
+    "title": "Fem",
+    "slug": "fem",
+    "defined": false,
+    "content": "",
+    "basename": "fem"
+  },
+  "femme": {
+    "title": "Femme",
+    "slug": "femme",
+    "defined": false,
+    "content": "",
+    "basename": "femme"
+  },
+  "food": {
+    "title": "Food",
+    "slug": "food",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "food"
+  },
+  "gaslighting": {
+    "title": "Gaslighting",
+    "slug": "gaslighting",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "Tool of Oppression"
+    },
+    "reading": [
+      {
+        "text": "11 warnings signs of gaslighting",
+        "href": "https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/11-warning-signs-gaslighting"
+      },
+      {
+        "text": "Gaslighting examples",
+        "href": "https://www.aconsciousrethink.com/6766/gaslighting-examples/"
+      }
+    ],
+    "content": "\n\npsychological manipulation tactic used to abuse by instilling doubt in the victim's own thoughts, observations, feelings by denying, misdirecting, and lying to them; originated from the Gaslight play (1933) and film (1944), where a man changes the lights in the house, while denying her observations of the changes.\n\n## Impact\n\nGaslighting reinforces systems of power, as gaslighting abusers will tend to be in systematically dominant positions where they are intrinsically believed over their victim (e.g., white person over person of colour, man over woman, abled person over disabled person, parent over child, manager over worker, etc). Gaslighting is an abusive and oppressive behaviour and tactic.\n\nThe abuser can become in control of the victim, who now no longer trusts their own perception. The victim can become codependent upon their abuser, and internalise.\n",
+    "basename": "gaslighting"
+  },
+  "gender-confirmation-surgery": {
+    "title": "Gender confirmation surgery (GCS)",
+    "slug": "gender-confirmation-surgery",
+    "defined": false,
+    "content": "",
+    "basename": "gender-confirmation-surgery"
+  },
+  "gender-pronouns": {
+    "title": "Gender pronouns",
+    "slug": "gender-pronouns",
+    "defined": true,
+    "content": "\n\ngender pronouns are often used to mean [pronouns](/definitions/pronouns).\n\n## Issue\n\nNot everyone's gender has a relationship to the pronouns they use to identify themselves. Some people are agender or gender non-conforming and still use pronouns.\n\nReiterating \"gender pronouns\" enforces the idea that there is necessarily a relationship between the two, and furthermore, it can suggest that if there isn't a relationship between the two, that it is not a valid use of pronouns.\n\n## Impact\n\nBy connecting gender and perpetuating unnecessary gender norms and expectations, we are perpetuating violence against gender minoritised people. Using this language perpetuates those systems and language of harm, regardless of our intent.\n",
+    "basename": "gender-pronouns"
+  },
+  "gender": {
+    "title": "Gender",
+    "slug": "gender",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Cis-",
+        "full_title": "Cisgender"
+      },
+      {
+        "text": "-Fluid",
+        "full_title": "Gender-Fluid"
+      },
+      {
+        "text": "Non-Conforming",
+        "full_title": "Gender Non-Conforming"
+      },
+      {
+        "text": "Trans",
+        "full_title": "transgender"
+      },
+      {
+        "text": "-Queer",
+        "full_title": "Gender-Queer"
+      }
+    ],
+    "content": "\n",
+    "basename": "gender"
+  },
+  "genderqueer": {
+    "title": "genderqueer",
+    "slug": "genderqueer",
+    "defined": false,
+    "content": "",
+    "basename": "genderqueer"
+  },
+  "genocide": {
+    "title": "Genocide",
+    "slug": "genocide",
+    "defined": false,
+    "content": "",
+    "basename": "genocide"
+  },
+  "governmentality": {
+    "title": "Governmentality",
+    "slug": "governmentality",
+    "defined": false,
+    "content": "",
+    "basename": "governmentality"
+  },
+  "gray-ace": {
+    "title": "gray ace",
+    "slug": "gray-ace",
+    "defined": false,
+    "content": "",
+    "basename": "gray-ace"
+  },
+  "gray-asexuality": {
+    "title": "Gray asexuality",
+    "slug": "gray-asexuality",
+    "defined": false,
+    "content": "",
+    "basename": "gray-asexuality"
+  },
+  "hard-of-hearing": {
+    "title": "Hard of Hearing (HOH)",
+    "slug": "hard-of-hearing",
+    "defined": false,
+    "content": "",
+    "basename": "hard-of-hearing"
+  },
+  "hegemonic": {
+    "title": "hegemonic",
+    "slug": "hegemonic",
+    "defined": false,
+    "content": "",
+    "basename": "hegemonic"
+  },
+  "hermaphrodite": {
+    "title": "Hermaphrodite",
+    "slug": "hermaphrodite",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "pseudo, male and female",
+        "full_title": "Hermaprhodite pseudo, male and female"
+      }
+    ],
+    "content": "\n",
+    "basename": "hermaphrodite"
+  },
+  "high-functioning": {
+    "title": "High-Functioning",
+    "slug": "high-functioning",
+    "defined": false,
+    "content": "",
+    "basename": "high-functioning"
+  },
+  "hijab": {
+    "title": "Hijab",
+    "slug": "hijab",
+    "defined": false,
+    "content": "",
+    "basename": "hijab"
+  },
+  "hispanic": {
+    "title": "Hispanic",
+    "slug": "hispanic",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Remezcla: Hispanic vs. Latino vs. Latinx: A Brief History of How These Words Originated",
+        "href": "https://remezcla.com/features/culture/latino-vs-hispanic-vs-latinx-how-these-words-originated/"
+      }
+    ],
+    "content": "\n\nServes as an umbrella term for people of Spanish, or Spanish-speaking ancestry. Hispanic is considered a pan-ethnic term, and does not provide context for someone's race or country of origin.\n\n#### Note\n\nPeople who self-identify as Hispanic may also self-identify as Chicano/Chicana, [Latino/Latina](/definitions/latino), or [Latinx](/definitions/latinx), but don't assume that they do. When in doubt, ask for individual preferences.\n",
+    "basename": "hispanic"
+  },
+  "homophobia": {
+    "title": "Homophobia",
+    "slug": "homophobia",
+    "defined": false,
+    "content": "",
+    "basename": "homophobia"
+  },
+  "hormone-replacement-therapy": {
+    "title": "Hormone Replacement Therapy (HRT)",
+    "slug": "hormone-replacement-therapy",
+    "defined": false,
+    "content": "",
+    "basename": "hormone-replacement-therapy"
+  },
+  "human-immunodeficiency-virus": {
+    "title": "Human Immunodeficiency Virus (HIV)",
+    "slug": "human-immunodeficiency-virus",
+    "defined": false,
+    "content": "",
+    "basename": "human-immunodeficiency-virus"
+  },
+  "hysterical": {
+    "title": "hysterical",
+    "slug": "hysterical",
+    "defined": true,
+    "speech": "adjective",
+    "flag": {
+      "level": "avoid",
+      "text": "sexist"
+    },
+    "reading": [
+      {
+        "text": "Etymoline",
+        "href": "https://www.etymonline.com/word/hysterical"
+      },
+      {
+        "text": "On the sexist etimology of “hysteria,” and what academia did about it",
+        "href": "https://medium.com/@peacelovetrig/on-the-sexist-etimology-of-hysteria-and-what-academia-did-about-it-ef98815ddb6c"
+      },
+      {
+        "text": "Hysteria, Is the Medical Condition Mental, Physical, or Made Up?",
+        "href": "https://www.newsweek.com/hysteria-medical-condition-mental-physical-or-made-66277"
+      }
+    ],
+    "content": "\n\nfeeling or showing uncontrollable outburst of emotion; casually: very funny\n\n## Issues\n\nHysteria originates from the Greek word _hysterikos_ or \"of the womb.\" The Greeks believed that hysteria was something that moved through a woman's body and caused ailments.\n\nHysteria was once an official medical condition that was primarily diagnosed in women. (It has since been disbanded into other disorders, such as conversion and disassociative disorders.) So, as medical professionals believed men did not have uteruses\\*, medical professionals would not diagnose men with hysteria (even though they were experiencing the same symptoms of conversion disorder).\n\n\\*Editor's Note: This concept that men cannot have uteruses is reflective of the medical context, not the belief of the editor.\n\n## Impact\n\nGender-codified and sexist language perpetuates harmful stereotypes that reinforce patriarchical ideas. In the case of hysteria, it perpetuates the false stereotype of women as being unreasonable, irrational, and not in control of their emotions. Harmful stereotypes can cause women to not be believed, to have their experiences invalidated, and be tone-policed.\n\nDefining gender by sexual organs can also perpetuate transphobic and anti-trans definitions, where gender is falsely defined by sexual organs.\n\nMedical conditions believed to be defined by sex and gender are reductive and can lead to misdiagnosis.\n\n## Alt Words\n\nIf intending **funny** connotation, try: funny; hilarious; comedic.\n\nIf intending **panic** connotation, try: panicked, petrified, startled.\n",
+    "basename": "hysterical"
+  },
+  "idiot": {
+    "title": "Idiot",
+    "slug": "idiot",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "Ableist language"
+    },
+    "content": "\n",
+    "basename": "idiot"
+  },
+  "illness": {
+    "title": "Illness",
+    "slug": "illness",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Chronic",
+        "full_title": "Chronic Illness"
+      }
+    ],
+    "content": "\n",
+    "basename": "illness"
+  },
+  "immigrant": {
+    "title": "Immigrant",
+    "slug": "immigrant",
+    "defined": false,
+    "content": "",
+    "basename": "immigrant"
+  },
+  "impact": {
+    "title": "Impact",
+    "slug": "impact",
+    "defined": false,
+    "content": "",
+    "basename": "impact"
+  },
+  "implicit-bias": {
+    "title": "Implicit bias",
+    "slug": "implicit-bias",
+    "defined": false,
+    "content": "",
+    "basename": "implicit-bias"
+  },
+  "indigenous": {
+    "title": "Indigenous",
+    "slug": "indigenous",
+    "defined": false,
+    "content": "",
+    "basename": "indigenous"
+  },
+  "inherent": {
+    "title": "Inherent",
+    "slug": "inherent",
+    "defined": false,
+    "content": "",
+    "basename": "inherent"
+  },
+  "insane": {
+    "title": "Insane",
+    "slug": "insane",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist language"
+    },
+    "content": "",
+    "basename": "insane"
+  },
+  "intent": {
+    "title": "Intent",
+    "slug": "intent",
+    "defined": false,
+    "content": "",
+    "basename": "intent"
+  },
+  "internalized-oppression": {
+    "title": "internalized oppression",
+    "slug": "internalized-oppression",
+    "defined": false,
+    "content": "",
+    "basename": "internalized-oppression"
+  },
+  "intersectionality": {
+    "title": "Intersectionality",
+    "slug": "intersectionality",
+    "defined": false,
+    "content": "\n",
+    "basename": "intersectionality"
+  },
+  "intersex": {
+    "title": "intersex",
+    "slug": "intersex",
+    "defined": false,
+    "content": "",
+    "basename": "intersex"
+  },
+  "invisible-disabilities": {
+    "title": "invisible disabilities",
+    "slug": "invisible-disabilities",
+    "defined": false,
+    "content": "",
+    "basename": "invisible-disabilities"
+  },
+  "jihad": {
+    "title": "Jihad",
+    "slug": "jihad",
+    "defined": false,
+    "content": "",
+    "basename": "jihad"
+  },
+  "lame": {
+    "title": "Lame",
+    "slug": "lame",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "lame"
+  },
+  "latino": {
+    "title": "Latin American/Latino/Latina",
+    "slug": "latino",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Remezcla: Hispanic vs. Latino vs. Latinx: A Brief History of How These Words Originated",
+        "href": "https://remezcla.com/features/culture/latino-vs-hispanic-vs-latinx-how-these-words-originated/"
+      }
+    ],
+    "content": "\n\nServes as an umbrella term for people of Latin American ancestry. Latino (and Latina) are inherently gendered terms due to Spanish's gendered language. Latino is considered a pan-ethnic term that does not provide context for someone's language, country of origin, or race.\n\nAlso can be written in gender neutral forms of [Latinx](/definitions/latinx), or Latin@s. When in doubt, default to Latino, and ask individual parties their preference, if possible.\n\n#### Note\n\nPeople who self-identify as Latin American or Latino/Latina may also self-identify as Chicano/Chicana, [Hispanic](/definitions/hispanic), or [Latinx](/definitions/latinx).\n",
+    "basename": "latino"
+  },
+  "latinx": {
+    "title": "Latinx",
+    "slug": "latinx",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Remezcla: Hispanic vs. Latino vs. Latinx: A Brief History of How These Words Originated",
+        "href": "https://remezcla.com/features/culture/latino-vs-hispanic-vs-latinx-how-these-words-originated/"
+      },
+      {
+        "text": "Latino, Latinx, Latine. The grammatical gender neutral in Spanish",
+        "href": "https://medium.com/@puentera/latino-latinx-latine-a3b19e0dbc1c"
+      }
+    ],
+    "content": "\n\nLatinx arose as a gender-neutral alternative to the gendered [Latino/Latina](/definitions/latino) in the United States.\n\nThis is a term that is seeing expanded usage and evolution among academic circles. Latinx is considered a pan-ethnic term that does not provide context for someone's language, country of origin, or race.\n\n#### Note\n\nPeople who self-identify as Latinx may also self-identify as Chicano/Chicana, [Hispanic](/definitions/hispanic), or [Latin American](/definitions/latino)\n",
+    "basename": "latinx"
+  },
+  "lunatic": {
+    "title": "Lunatic",
+    "slug": "lunatic",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "lunatic"
+  },
+  "maniac": {
+    "title": "Maniac",
+    "slug": "maniac",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist language"
+    },
+    "content": "\n",
+    "basename": "maniac"
+  },
+  "mansplain": {
+    "title": "Mansplain",
+    "slug": "mansplain",
+    "speech": "verb",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Rebecca Solnit's 'Men Explain Things to Me' (2008)",
+        "href": "https://www.guernicamag.com/rebecca-solnit-men-explain-things-to-me/"
+      },
+      {
+        "text": "Kim Goodwin's 'Am I mansplaining? graphic",
+        "href": "https://ichef.bbci.co.uk/wwfeatures/live/1600_900/images/live/p0/6f/zj/p06fzjxg.jpg"
+      }
+    ],
+    "content": "\n\nthe act of explaining (usually by a man) something without asking consent to do so, often to someone who already knows and/or after someone else has already explained it (usually a woman or femme person)\n\n## Issues\n\nMansplaining places men (usually without authority) in a position of default authority, and places women and gender minoritised people with authority in a position of default subordination, which reinforces the power differential in men's favour.\n\nMansplaining occupies real time in meetings, leading to men gaining more air time and exposure, despite the stereotype that women speak more.[1](https://slate.com/human-interest/2013/02/do-women-talk-more-the-answer-is-no-but-the-belief-persists-despite-the-evidence.html)\n\n## Impact\n\nMansplaining can reinforce toxic masculinity and rape culture, as it fundamentally is about disbelieving women and gender-minoritised individuals.\n\nMansplaining contributes to the invalidation and disbelief of any women and gender-minoritised individuals and their credentials. The disbelief and intrinsic questioning of women and gender-minoritised individual especially reinforces systemic bias and injustice against them.\n\nSomeone who is repeatedly mansplained can be perceived as lacking credentials or knowledge they very well may have, which can lead to missed career opportunities or systematic exclusion from leadership, for example.\n\nExamples include but aren't limited to: a man explaining to a woman how to pronounce her own name, explaining menstruation, or explaining the history of a country with which the woman is associated but the man has never been to.  \n\n## Considerations\n\nA good way to check if you're mansplaining is to ask yourself whether:\n\n(1) the person explicitly asked for the explanation\n\n(2) you are assuming incompetence because of the person's gender, race, ability, etc, and,\n\n(3) how your systematic and individual bias, particularly gender bias in this context, affects your interpretation of (1) and (2)\n",
+    "basename": "mansplain"
+  },
+  "marginalized": {
+    "title": "Marginalized",
+    "slug": "marginalized",
+    "defined": false,
+    "content": "",
+    "basename": "marginalized"
+  },
+  "master-slave": {
+    "title": "Master Slave",
+    "slug": "master-slave",
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "Agency & Operatives",
+      "Leader & Follower",
+      "Main & Secondary",
+      "Parent & Child, Helpers, or Workers",
+      "Primary & Replica",
+      "Primary & Secondary",
+      "Trunk & Branch"
+    ],
+    "reading": [
+      {
+        "text": "Rename Your Git Branch From Master To Main",
+        "href": "https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx"
+      }
+    ],
+    "content": "\n\nA model of asymmetric communication or control where one device or process have total control over other components or are controlled by a component.\n\n## Issues\n\nMaster/slave terminology is problematic because it serves as a reminder that slavery was and continues to be a globally institutionalised practice. Yet, this type of offensive language is still used casually in many programming languages.\n\n## Impact\n\nThe outdated \"master/slave\" convention has strong associations with slavery which is exclusionary to members of our community who may continue to live with the negative impacts of slavery. It also demonstrates how pervasive and casual racism is throughout our culture and language.\n\n## Usage Tip\n\nSeek to change any existing \"master/slave\" terminology to one of the suggested terms, as there are many alternative terminologies to describe the relationship between two components, many of which are much more specific. Avoid creating new projects with this terminology.\n\nEven if you may not be negatively impacted by this terminology, it can negatively impact other existing and prospective contributors onto your project. The terminology isn't so unique that it's irreplaceable; the lift tends to be trivial in comparison to the potential impact.\n",
+    "basename": "master-slave"
+  },
+  "matriarchy": {
+    "title": "Matriarchy",
+    "slug": "matriarchy",
+    "defined": false,
+    "content": "",
+    "basename": "matriarchy"
+  },
+  "medication-sensitive": {
+    "title": "Medication sensitive",
+    "slug": "medication-sensitive",
+    "defined": false,
+    "content": "",
+    "basename": "medication-sensitive"
+  },
+  "metis": {
+    "title": "Métis",
+    "slug": "metis",
+    "speech": "noun",
+    "defined": true,
+    "content": "\n\nA distinct Indigenous culture originating from the children of intermarriages between First Nationspersons and European Settlers (most often French). The homeland of the Métis is considered the Canadian Prairies with the Red River Settlement being the most well known.\n",
+    "basename": "metis"
+  },
+  "midget": {
+    "title": "Midget",
+    "slug": "midget",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "midget"
+  },
+  "militarisation": {
+    "title": "Militarisation",
+    "slug": "militarisation",
+    "defined": false,
+    "content": "",
+    "basename": "militarisation"
+  },
+  "minorities": {
+    "title": "minorities",
+    "slug": "minorities",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "minoritised",
+      "or omit"
+    ],
+    "content": "\n\nthe smaller in number of two groups constituting a whole\n\n## Issues\n\nMinorities is not always accurate and is vague. As it deals with numbers, the term minorities can often be inaccurate, as is the case when speaking of communities of colour, who often outnumber white communities.\n\nBy referring to a group as 'minorities,' it can suggest the group hasn't taken initiative to show up, thereby blaming the oppressed for systemic issues that prevent their participation.\n\n## Impact\n\nBy repeatedly referring to groups as \"minorities,\" they are being infantised to their numerical representation and made to feel minor. The vagueness also abstracts the identify of the marginalised group, making it difficult to address why they are minoritised to begin with.\n\n## Read also\n\n- [minoritised](/definitions/minoritised)\n- [overrepresented majority](/definitions/overrepresented-majority)\n- [underrepresented majority](/definitions/underrepresented-minority)\n",
+    "basename": "minorities"
+  },
+  "minoritised": {
+    "title": "minoritised",
+    "slug": "minoritised",
+    "defined": true,
+    "speech": "adj",
+    "flag": {
+      "level": "better-alternative",
+      "alt-for": "minorities"
+    },
+    "reading": [
+      {
+        "text": "Minority vs minoritize",
+        "href": "https://www.theodysseyonline.com/minority-vs-minoritize"
+      }
+    ],
+    "content": "\n\ngroups resulting from social constructs have been granted less power or representation compared to other members or groups in society\n\n## Preferable To\n\n[minorities](/definitions/minorities)\n\n## Benefits\n\nMinoritised places the emphasis on the power struggle, and on the systemic issues at play. It's also an adjective, which requires you to add \"group\" or \"people\" so it's people-first language.\n\n## Impact\n\nIt removes the pejorative nature of \"minorities\", illuminating that this is an effect upon the individual or group, rather than the singular way to identify the group.\n\n## Read also\n\n- [minorities](/definitions/minorities)\n- [overrepresented majority](/definitions/overrepresented-majority)\n- [underrepresented majority](/definitions/underrepresented-minority)\n",
+    "basename": "minoritised"
+  },
+  "misogynoir": {
+    "title": "Misogynoir",
+    "slug": "misogynoir",
+    "defined": false,
+    "content": "",
+    "basename": "misogynoir"
+  },
+  "monoculture": {
+    "title": "Monoculture",
+    "slug": "monoculture",
+    "defined": true,
+    "speech": "noun",
+    "content": "\n\nstate of culture in which there is a relevant lack of diversity in cultural objects produced, both by organizations and audiences.\n",
+    "basename": "monoculture"
+  },
+  "moron": {
+    "title": "Moron",
+    "slug": "moron",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "content": "\n",
+    "basename": "moron"
+  },
+  "n-word": {
+    "title": "N-word",
+    "slug": "n-word",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "racist slur"
+    },
+    "content": "\n",
+    "basename": "n-word"
+  },
+  "neopronouns": {
+    "title": "neopronouns",
+    "slug": "neopronouns",
+    "defined": true,
+    "speech": "noun",
+    "reading": [
+      {
+        "text": "LGBTA Wiki: Neopronouns",
+        "link": "https://lgbta.wikia.org/wiki/Neopronouns"
+      }
+    ],
+    "content": "\n\na set of words that go alongside traditional third-person pronouns (he/she/singular they) such as ze/zir, ze/hir, xe/xem, and plural they.\n\n## Note\n\nSome people find using neopronouns helpful to disrupting the gender binary, as traditional pronouns he and she usually carry connotations of male/masculine and female/feminine and they can carry connotations of being non-binary. Neopronouns are not recognised \"officially\" in the English language and tend to be less known as a result of their newness and lack of institutional support.\n",
+    "basename": "neopronouns"
+  },
+  "neurodivergent": {
+    "title": "Neurodivergent",
+    "slug": "neurodivergent",
+    "defined": false,
+    "content": "",
+    "basename": "neurodivergent"
+  },
+  "neurodiverse": {
+    "title": "Neurodiverse",
+    "slug": "neurodiverse",
+    "defined": false,
+    "content": "",
+    "basename": "neurodiverse"
+  },
+  "neurotypical": {
+    "title": "Neurotypical",
+    "slug": "neurotypical",
+    "defined": false,
+    "content": "",
+    "basename": "neurotypical"
+  },
+  "non-binary": {
+    "title": "Non-binary",
+    "slug": "non-binary",
+    "speech": "adj",
+    "defined": true,
+    "content": "\n\nof, relating to, or characterised by being any gender that does not fit into the male-female gender binary; an umbrella term.\n\nFor example, a non-binary person may have some gender between male and female, have multiple genders, no gender, a culturally-specific gender (e.g., two-spirit).\n\n## Note\n\nNon-binary people may or may not also identify as [transgender](/definitions/transgender).\n\nAlthough non-binary is commonly used as an umbrella term, just because someone identifies as a term under the umbrella, does not necessarily imply that they identify as non-binary as well. For example, someone may be agender, but not identify with the term \"non-binary\".\n",
+    "basename": "non-binary"
+  },
+  "not-safe-for-work": {
+    "title": "Not Safe For Work (NSFW)",
+    "slug": "not-safe-for-work",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "anti-sex work"
+    },
+    "content": "",
+    "basename": "not-safe-for-work"
+  },
+  "nudity": {
+    "title": "Nudity",
+    "slug": "nudity",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "nudity"
+  },
+  "nuts": {
+    "title": "nuts",
+    "slug": "nuts",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist language"
+    },
+    "content": "\n",
+    "basename": "nuts"
+  },
+  "obese": {
+    "title": "Obese",
+    "slug": "obese",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "anti-fat language"
+    },
+    "content": "\n",
+    "basename": "obese"
+  },
+  "obsessive-compulsive-disorder": {
+    "title": "Obsessive Compulsive Disorder (OCD)",
+    "slug": "obsessive-compulsive-disorder",
+    "flag": {
+      "level": "avoid",
+      "text": "Medical Appropriation"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "conscientious",
+      "exact",
+      "fastidious",
+      "fussy",
+      "meticulous",
+      "nitpicky",
+      "particular",
+      "precise",
+      "quirky",
+      "thorough"
+    ],
+    "content": "\n\na mental illness usually embodied by unwanted repeated thoughts (obsession) coupled with repeated behaviour, routine, or action (compulsion)\n\n## Issues\n\nOCD is commonly misused to highlight personality quirks or fussiness, usually involving a preference for order or cleanliness. Use of 'OCD' as a noun or adjective in this manner diminishes the actual condition, resulting in reductive and over-normalised perception of a someone with these specific mental or psychiatric disabilities.\n\n## Impact\n\nBy conflating arbitrary quirks or behaviours with OCD, we are invalidating OCD as a medical condition and the people who experience it. Generally by using medically appropriative language, we are invalidating the existences of people with OCD, minimising their experiences, perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling. In this case, be particularly aware if the behaviour is actually unwanted or uncontrollable.\n",
+    "basename": "obsessive-compulsive-disorder"
+  },
+  "ok-hand": {
+    "title": "👌 [ok-hand]",
+    "slug": "ok-hand",
+    "flag": {
+      "text": "Racist Symbol",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "👍",
+      "🆗",
+      "good",
+      "okay",
+      "or omit"
+    ],
+    "content": "\n\nhand gesture where right thumb and right index finger form a circle, remaining fingers fan out; in American Sign Language, gesture means number nine; in diving, gesture indicates “OK” as question or confirmation; gesture is used in an innocuous children's game called “[The Circle Game](https://www.vice.com/en_uk/article/wj8e74/searching-for-the-man-behind-the-circle-game),” where the gesture is held low—if another child looks at it, they get punched.\n\nIn 2017, the hand gesture was [appropriated by White Supremacists on 4chan](https://knowyourmeme.com/memes/ok-symbol-%F0%9F%91%8C) to mean White Power (the three fingers forming at 'W' and thumb and index forming the circle of the 'P'). It was framed as a hoax to \"own\" Leftists through trickery and [gaslighting](/definitions/gaslighting).\n\nThe hand gesture has been used by White Supremacists as a dogwhistle to identify other White Supremacists [at rallies](https://mashable.com/article/milo-yiannopoulos-banned-from-furry-convention/), [in forums](https://www.splcenter.org/hatewatch/2018/09/18/ok-sign-white-power-symbol-or-just-right-wing-troll), and even [at court hearings](https://nypost.com/2019/03/15/suspected-new-zealand-shooter-appears-in-court/). In 2019, the hand gesture was added to the [Anti-Defamation League's list of official symbols of hate](https://www.adl.org/news/press-releases/ok-and-other-alt-right-memes-and-slogans-added-to-adls-hate-symbols-database).\n\n## Issues\n\nWhile it can be argued that the symbol's origins and many of its uses do not imply racist connotations, and that the 4chan-ers \"framed it as a hoax,\" it is undeniable that the symbol has evolved and become a gesture used sincerely by white supremacists.\n\nThe uncertainty created by the 4chan-ers is a critical part of their strategy. The strategy employs plausible deniability: Because they self-identified it as a hoax, they can fall back on that explanation. Meanwhile, if people begin to adapt the symbol, as they did, it becomes a dogwhistle for White Supremacists. It should be noted that this approach of indoctrinating symbols of hate is one long-documented, and [used for the Swastika as well](https://theconversation.com/how-nazis-twisted-the-swastika-into-a-symbol-of-hate-83020).\n\n## Impact\n\nThe people most vulnerable to the oppressive impact of White Supremacy will never know for certain if the symbol is being used in one of its non-violent manners or if it's being used in its racist violent manners. The oppressed must choose the option that protects them, which is typically erring on the side of caution.\n\nContinuing to use the symbol with its non-hateful connotations to \"take it back,\" does not eliminate its pervasive new meaning associated with White Supremacy. Instead, continuing usage only perpetuates emotional and psychological harm upon the most vulnerable and susceptible populations.\n\n## Other Languages\n\n[Français](/definitions/fr_FR/signe-ok)\n",
+    "basename": "ok-hand"
+  },
+  "oppression": {
+    "title": "Oppression",
+    "slug": "oppression",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Iternalised",
+        "full_title": "Internalised Oppression"
+      }
+    ],
+    "content": "\n",
+    "basename": "oppression"
+  },
+  "optical-allyship": {
+    "title": "optical allyship",
+    "slug": "optical-allyship",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "White Supremacy Tool"
+    },
+    "reading": [
+      {
+        "text": "We are not interested in Optical Allyship (origin)",
+        "href": "https://www.instagram.com/p/BiPDZkbFJFY/?hl=en"
+      },
+      {
+        "text": "If You Want To Be Anti-Racist, This Non-Optical Allyship Guide Is Required Reading",
+        "href": "https://www.vogue.co.uk/arts-and-lifestyle/article/non-optical-ally-guide"
+      },
+      {
+        "text": "What Is Optical Allyship? 3 Ways To Be Actively Anti-Racist",
+        "href": "https://www.bustle.com/p/what-is-optical-allyship-3-ways-to-be-actively-anti-racist-22956518"
+      },
+      {
+        "text": "What is optical allyship? Ways you can support the BLM movement apart from spreading hashtags",
+        "href": "https://www.msn.com/en-ca/news/politics/what-is-optical-allyship-ways-you-can-support-the-blm-movement-apart-from-spreading-hashtags/ar-BB15cJgz"
+      }
+    ],
+    "content": "\n\na form of allyship.\n\nwhen an individual or group of power/majority/privilege (e.g., white, male, abled, unqueer, etc) creates a public display in the name of 'allyship,' serving only themselves and not the group they claim to support, often to receive praise and attention, without taking critical action to dismantle the systems of harm.\n\n> allyship that only serves at the surface level to platform the 'ally,' it makes a statement but doesn’t go beneath the surface and is not aimed at breaking away from the systems of power that oppress.\n\n## Related Words\n\nperformative allyship, corporate blackface, non-optical allyship\n\n## Impact\n\nOptical allyship detracts from the stories of the oppressed and the impact that oppression has on them in favour of the stories of the oppressors and their intent to help. Optical allyship centres the perspectives of the oppressor. The cost of optical allyship can also be that the stories of the oppressed people are appropriated, watered down, and inaccurately retold by people who should not be telling those stories. For example, in #BlackOutTuesday, many rushed to publicly respond without understanding the intent which \"derailed the conversation.\"\n",
+    "basename": "optical-allyship"
+  },
+  "oriental": {
+    "title": "Oriental",
+    "slug": "oriental",
+    "defined": true,
+    "flag": {
+      "text": "racist term",
+      "level": "avoid"
+    },
+    "speech": "noun or adj.",
+    "alt_words": [
+      "Asian or Asian-American when you're uncertain. However, when possible, be as specific as possible. If you know or can ask someone's ethnicity, it's better to be specific such as Korean-Canadian or Vietnamese-American."
+    ],
+    "reading": [
+      {
+        "text": "ThoughtCo: Avoid these five racial terms",
+        "href": "https://www.thoughtco.com/avoid-these-five-racial-terms-2834959"
+      },
+      {
+        "text": "'Oriental': Rugs, Not People",
+        "href": "https://www.npr.org/templates/story/story.php?storyId=112465167?storyId=112465167"
+      }
+    ],
+    "content": "\n\n## Issues\n\nThe word Oriental is rooted in the concept of Orientalism, which is strongly articulated by Edward Said in eponymous book, _Orientalism_. In his book, Said illustrates the Orient as being the observed \"other\" or \"foreigner,\" whereas the Occident (or the West) is centred as the default. All Eastern culture is prescribed through this imperialist, pejorative lens, where it is deemed as strange, exotic, dirty, effeminate, and weak. By presenting Eastern culture through this lens, Western culture may present set itself up for dominance through cultural hegemony and colonisation.\n\nCalling someone Oriental reinforces those hegemonic ideas even if you're unaware of its historical context.\n\n## Impact\n\nBy continuing use of this term, we are perpetuating anti-Asian sentiments and the centralisation of Western (i.e., Occidental) imperialism. Diverse Asian people, nations, and cultures are flattened into one caricature of itself, which is dehumanising.\n",
+    "basename": "oriental"
+  },
+  "other-specified-feeding-or-eating-disorders": {
+    "title": "Other specified feeding or eating disorders (OSFED)",
+    "slug": "other-specified-feeding-or-eating-disorders",
+    "defined": false,
+    "content": "",
+    "basename": "other-specified-feeding-or-eating-disorders"
+  },
+  "overrepresented-majority": {
+    "title": "overrepresented majority (ORM)",
+    "slug": "overrepresented-majority",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "better-alternative",
+      "alt-for": "underrepresented minority (URM)"
+    },
+    "reading": [
+      {
+        "text": "Minority vs minoritize",
+        "href": "https://www.theodysseyonline.com/minority-vs-minoritize"
+      }
+    ],
+    "content": "\n\ngroup resulting from social constructs have grant less power or representation compared to other members or groups in society; acts as a contrast to underrepresented minority (URM)\n\n## Usage\n\nWhen using any term for a group, it's important to contextualise it into people. So, for example, \"people from the overrepresented majority are less likely to be affected by this change\" over \"the overrepresented majority are less likely to be affected by this change.\"\n\nAs the underrepresented minority (URM) is the more commonly used term, it has an impact of focusing issues on that that group, which often can imply and place the burden of fixing the problem is onto that group. Underrepresented can imply that the group can do more to represent themselves.\n\nMeanwhile, the overrepresented majority is usually the group that possesses the power to influence which groups are majoritised (and subsequently receive power) and which groups are minoritised. It renders this power dynamic invisible.\n\n## Preferable To\n\n[minorities](/definitions/minorities)\n[underrepresented minorities](/definitions/underrepresented-minorities)\n\n## Benefits\n\nNaming the overrepresented majority allows us to discuss the power dynamic involved, and places emphasis on the fact that it's not about minoritised groups being _underrepresented_, but that it is also about majoritised groups being _overrepresented_.\n\nIt also allows prevents the false dichotomy where everyone is either \"default/unnamed\" or from an underrepresented minority. Without it, people from underrepresented minorities are forced to carry a label when people from overrepresented majorities are not.\n\n## Impact\n\nThe term overrepresented majority allows us to discuss the holistic systems and all of the players involved.\n\n## Read also\n\n- [minorities](/definitions/minorities)\n- [minoritised](/definitions/minoritised)\n- [underrepresented majority](/definitions/underrepresented-minority)\n",
+    "basename": "overrepresented-majority"
+  },
+  "panic-attacks": {
+    "title": "Panic attacks",
+    "slug": "panic-attacks",
+    "defined": false,
+    "content": "",
+    "basename": "panic-attacks"
+  },
+  "pansexual": {
+    "title": "Pansexual",
+    "slug": "pansexual",
+    "speech": "adj",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Pansexuality and Being Pansexual: Everything You Need to Know",
+        "href": "https://www.teenvogue.com/story/what-is-pansexuality"
+      }
+    ],
+    "content": "\n\nsomeone who is sexually attracted to people regardless of their gender, or to people of any gender.\n",
+    "basename": "pansexual"
+  },
+  "parachuting": {
+    "title": "Parachuting",
+    "slug": "parachuting",
+    "defined": false,
+    "content": "",
+    "basename": "parachuting"
+  },
+  "patriarchy": {
+    "title": "Patriarchy",
+    "slug": "patriarchy",
+    "defined": false,
+    "content": "",
+    "basename": "patriarchy"
+  },
+  "peanut-gallery": {
+    "title": "peanut gallery",
+    "slug": "peanut-gallery",
+    "flag": {
+      "level": "avoid",
+      "text": "Racist Term"
+    },
+    "defined": true,
+    "speech": "noun",
+    "reading": [
+      {
+        "text": "Words and Phrases That Sting: \"Peanut Gallery\" and \"Sold Down the River\"",
+        "href": "http://www.theinclusionsolution.me/author/maryfwinters/"
+      },
+      {
+        "text": "11 racist and offensive phrases that people still use all the time",
+        "href": "https://www.businessinsider.com/offensive-phrases-that-people-still-use-2013-11"
+      }
+    ],
+    "alt_words": [
+      "disrupters",
+      "hecklers"
+    ],
+    "content": "\n\na group of people who are giving unsolicited (and unvalued) advice. Before microphones and opera glasses were common, balcony seats were the least desireable in Vaudeville theaters and were typically where Black people sat. The term \"peanut gallery\" became a nickname for these seats, in part due to the peanuts being served at the theatre that were rumored to be thrown at the performers on stage to convey patrons' disapproval.\n\n## Issues\n\nThe term perpetuates and reinforces the historic silencing of Black voices and speaking of them in a pejorative nature. Phrases such as \"no comments from the peanut gallery\" or \"quiet in the peanut gallery\" are extensions of the name.\n\n## Impact\n\nThe phrase implies that the opinions expressed by those from the gallery were unsolicited, unwarranted and unhelpful, which then perpetrates that Black people's critiques are irrelevant or insignificant. This is particularly problematic when they are critiquing oppressive systems and their oppressors. Using such terms perpetuate the imbalance of power and the delegitimisation of their critiques.\n\nBy continuing the use of the term, rooted in its subordination to white power structures, regardless of whether we intend to carry its racist origins or not, we are contributing to the perpetuating of harm against Black people and their voices. Seemingly small actions like this contribute to the normalisation of the harm.\n\nDenying the etymology or power of the word as irrelevant is denying the history of its strength: \"Peanut gallery\" has been used to dehumanise Black people and their voices, which leads to justify oppressing them or denying their rights.\n\n## Usage Tip\n\nConsider context and the power you possess in an interaction. The term becomes even worse if you are using it in reference to a group of Black people and you are non-Black. You are carrying the historical power you have in your usage.\n",
+    "basename": "peanut-gallery"
+  },
+  "pedophilia": {
+    "title": "pedophilia",
+    "slug": "pedophilia",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "pedophilia"
+  },
+  "people-of-color": {
+    "title": "People of Color (PoC)",
+    "slug": "people-of-color",
+    "defined": false,
+    "content": "",
+    "basename": "people-of-color"
+  },
+  "people-with-disabilities": {
+    "title": "People with disabilities",
+    "slug": "people-with-disabilities",
+    "defined": false,
+    "content": "",
+    "basename": "people-with-disabilities"
+  },
+  "performative-allyship": {
+    "title": "performative allyship",
+    "slug": "performative-allyship",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "White Supremacy Tool"
+    },
+    "reading": [
+      {
+        "text": "Are you practicing performative allyship?",
+        "href": "http://affinitymagazine.us/2017/07/09/are-you-practicing-performative-allyship/"
+      },
+      {
+        "text": "Is This Your Queen? Ellen Pompeo, Growth and Performative White Allyship",
+        "href": "https://www.theroot.com/is-this-your-queen-ellen-pompeo-growth-and-performati-1830593400"
+      },
+      {
+        "text": "Performative allyship: what it is, what it looks like, and why we want to avoid it.",
+        "href": "https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/"
+      }
+    ],
+    "content": "\n\nwhen an individual or group of power/majority/privilege (e.g., white, male, abled, unqueer, etc) loudly profess(es) their actions in the name of 'allyship,' while actively conducting harm to, taking focus away from, and generally being unhelpful towards the group they claim to support, often to receive praise and attention, without taking critical action to dismantle the systems of harm.\n\n## Impact\n\nPerformative allyship detracts from the stories of the oppressed and the impact that oppression has on them in favour of the stories of the oppressors and their intent to help. The cost of performative allyship can also be that the stories of the oppressed people are appropriated, watered down, and inaccurately retold by people who should not be telling those stories.\n",
+    "basename": "performative-allyship"
+  },
+  "platonic": {
+    "title": "Platonic",
+    "slug": "platonic",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Queer",
+        "full_title": "Queer Platonic"
+      }
+    ],
+    "content": "\n",
+    "basename": "platonic"
+  },
+  "plural": {
+    "title": "Plural",
+    "slug": "plural",
+    "speech": "noun",
+    "defined": true,
+    "content": "\n\nDenoting more than one entity living in a host body.\n\n## Read also\n\n- [dissociative identity disorder](/definitions/dissociative-identity-disorder)\n",
+    "basename": "plural"
+  },
+  "police-brutality": {
+    "title": "police brutality",
+    "slug": "police-brutality",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "police-brutality"
+  },
+  "polyamory": {
+    "title": "Polyamory",
+    "slug": "polyamory",
+    "speech": "noun",
+    "defined": true,
+    "reading": [
+      {
+        "text": "My definition of polyamory",
+        "href": "https://avris.it/blog/my-definition-of-polyamory"
+      },
+      {
+        "text": "Poly Glossary",
+        "href": "https://www.polymatchmaker.com/main.mvc?Screen=HTML&Page=polyglossary"
+      },
+      {
+        "text": "http://polyliving.net/",
+        "href": "http://polyliving.net/"
+      }
+    ],
+    "content": "\n\nbelief that romantic and/or sexual exclusivity is not necessary for a happy, committed relationship; an umbrella term for various types of relationships (coded as romantic or quasi-romantic, sexual or non-sexual) where all partners involved consent to ethical non-monogamy, such as polycules, throuples, group marriages, etc.\n\n## Note\n\nOne can be polyamorous despite currently being single or in a monogamous relationship.\n",
+    "basename": "polyamory"
+  },
+  "positivism": {
+    "title": "Positivism",
+    "slug": "positivism",
+    "defined": false,
+    "content": "",
+    "basename": "positivism"
+  },
+  "post-traumatic-stress-disorder": {
+    "title": "Post-Traumatic Stress Disorder (PTSD)",
+    "slug": "post-traumatic-stress-disorder",
+    "defined": false,
+    "content": "",
+    "basename": "post-traumatic-stress-disorder"
+  },
+  "pow-wow": {
+    "title": "pow-wow",
+    "slug": "pow-wow",
+    "defined": true,
+    "speech": "noun or verb",
+    "flag": {
+      "level": "avoid",
+      "text": "cultural appropriation"
+    },
+    "alt-words": [
+      "brainstorm/brainstorming session",
+      "gather/gathering",
+      "get together",
+      "meet/meeting",
+      "whiteboard/whiteboarding session",
+      "work/working session"
+    ],
+    "reading": [
+      {
+        "text": "Use these culturally offensive phrases, questions at your own risk",
+        "href": "https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at"
+      },
+      {
+        "text": "Vice: How to be an ally to Native Americans and Indigenous people",
+        "href": "https://www.vice.com/en_us/article/pa5a3m/how-to-be-an-ally-to-native-americans-indigenous-people"
+      },
+      {
+        "text": "Mic: Things we need to stop saying about Native Americans",
+        "href": "https://www.mic.com/articles/144584/things-we-need-to-stop-saying-about-native-americans"
+      },
+      {
+        "text": "Working Effectively with Indigenous Peoples (4th Ed)",
+        "href": "https://www.chinookmarketplace.com/products/book-working-effectively-with-indigenous-peoples-4th-edition"
+      }
+    ],
+    "content": "\ncomes from the Narragansett word _powwaw_, meaning \"spiritual leader; (also spelled powwow, powaw, pawaw, powah, pauwau and pawau); social gathering, ceremony, or celebrations held in different Native American communities that can be spiritually symbolic in nature, involve dancing and regalia, and involve months of planning with hundreds of people in attendance; colloquially is culturally appropriated and used to mean \"to meet\" (verb) or meeting, working session, or gathering (noun).\n\n## Issue\n\nNon-Native/non-Indigenous people using pow-wow outside of the context of its Native American meaning and significance is culturally appropriation through terminology.\n\nUsing culturally appropriative language while Native American and Indigenous people are systematically harmed reinforces settler colonial oppression.\n\n## Impact\n\nCultural appropriation is problematic because it robs the culture from the people without their consent, while the people behind the culture are left behind and systemically excluded from the spaces using their culture.\n\nUsing Native and Indigenous culture outside of its intended meaning also demeans its value to the culture. Connoting that your five-person meeting about making an app is somehow the same as culturally significant event minimises what powwows are.\n",
+    "basename": "pow-wow"
+  },
+  "power": {
+    "title": "power",
+    "slug": "power",
+    "defined": false,
+    "content": "",
+    "basename": "power"
+  },
+  "poz": {
+    "title": "Poz",
+    "slug": "poz",
+    "defined": false,
+    "content": "",
+    "basename": "poz"
+  },
+  "preferred-pronoun": {
+    "title": "preferred pronoun",
+    "slug": "preferred-pronoun",
+    "flag": {
+      "text": "avoid",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "pronoun"
+    ],
+    "content": "\n\na word that substitutes for a noun, in particular, a person's name; a person's pronouns does not necessarily align with their gender presentation or their gender identity; a person gets to say what pronouns they and others use to refer to them; pronouns can be fluid based on context and presentation and change over time.\n\n## Issues\n\nPreferred pronoun can imply that this is merely what is _preferred_ rather than what is _real_. Using this can reinforce the idea that someone's pronouns are a choice rather than what is true for them or it's merely a preference and that you can use whatever pronouns you'd like for them.\n\n## Impact\n\nPreferred pronouns can delegitimise pronouns of trans and non-binary people in particular, especially when their pronouns are wrongly assumed to be different than they are or [neopronouns](/definitions/neopronouns) that are less commonly known. Delegitimising their pronouns delegitimes aspects of their identity, reinforces transmisia and non-binary erasure, and leads to harm against them.\n\n## Usage Tip\n\nUse [pronouns](/definitions/pronouns) instead.\n",
+    "basename": "preferred-pronoun"
+  },
+  "prejudice": {
+    "title": "Prejudice",
+    "slug": "prejudice",
+    "defined": false,
+    "content": "",
+    "basename": "prejudice"
+  },
+  "pride": {
+    "title": "Pride",
+    "slug": "pride",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "First",
+        "full_title": "First Pride (Anti-Police Riots)"
+      }
+    ],
+    "content": "\n",
+    "basename": "pride"
+  },
+  "privilege": {
+    "title": "Privilege",
+    "slug": "privilege",
+    "defined": false,
+    "content": "",
+    "basename": "privilege"
+  },
+  "pronouns": {
+    "title": "Pronouns",
+    "slug": "pronouns",
+    "speech": "noun",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Merriam-Webster: Words We're Watching: Singular They",
+        "href": "https://www.merriam-webster.com/words-at-play/singular-nonbinary-they"
+      },
+      {
+        "text": "Pronoun.is",
+        "href": "http://pronoun.is/"
+      }
+    ],
+    "content": "\na word that substitutes for a noun, in particular, a person's name; a person's pronouns does not necessarily align with their gender presentation or their gender identity; a person gets to say what pronouns they and others use to refer to them; pronouns can be fluid based on context and presentation and change over time.\n\n## Usage\n\n**If you're in a group setting, it's best to lead by example by sharing your own pronouns if you feel comfortable.** \"I'm Jack, my pronouns are they/them.\"\n\n**When referring to someone's pronouns, it's best to follow their lead.** People will say \"My pronoun(s) is/are...\"\n\n**When you are not sure, ask what pronouns you should use and for what context,** in particular if you will be writing or speaking about them in a public setting. If you can, it's best to ask them one-on-one in a private setting. If you can't, likely they'll tell you the pronouns that make sense for that public setting.\n\n**Sometimes people will list their pronouns on their websites, email signatures, social media bios, etc.** While you can refer to those places for usage, it generally doesn't hurt to confirm how _you_ should refer to the person _in the particular context_, as some people use different pronouns in different settings. (For example, someone might not feel comfortable using a set of pronouns that might \"out them\" (reveal aspects of their gender identity) in a place they don't feel safe doing so.\n\n**When you are not sure and unable to confirm (such as if the person is deceased), it's generally best to use they/them pronouns.** However, note that some people do not like the use of they/them pronouns, which is sometimes the case for someone who has to work very hard to match their perceived gender identity to their pronouns.\n\nIf it seems complicated, it is because it is. Pronouns can be really important to people as they can represent a lot to a person about their identity. It's best to try your hardest then course-correct as needed.\n\n## Tips for Asking\n\nKeeping your question simple usually is best:\n\n\"What pronoun(s) should I use for you [add context if it's beyond one on one usage, including who might see it]?\"\n\nAvoid adding extra words, like, \"[preferred pronoun](/definitions/preferred-pronoun)\" or \"[gender pronoun](/definitions/gender-pronouns)\"\n\n## Tips for Correction\n\n**If you get someone's pronouns wrong and you're alerted of it or realise, correct the pronoun, apologise swiftly, and move on.** Avoid dwelling on it (providing long back story or berating yourself and expecting them to console you).\n\nIt can be very uncomfortable for whom you used the wrong pronoun, as it can often mean misgendering them. When you dwell on your mistake, you're asking someone who just had an uncomfortable, potentially oppressive experience, to then console you. Gross.\n\n**If you notice someone use the wrong pronouns for someone, correct the pronoun.** \"Jack uses they/them pronouns.\" Be certain that you are sure that the person would want you to use these pronouns in this setting, as you can accidentally \"out\" somebody if you're not careful.\n\n## Considerations\n\n- Usually people will list the pronouns as they/them or they/them/theirs.\n- Some people use multiple pronouns, such as she/they or they/he. Sometimes the order of these can imply which pronoun they use more frequently or if there is a slight preference to one over the other. It can also sometimes imply that they are in transition between using one pronoun to another. It can also imply none of these things, so it is best not to assume.\n- Some people change their pronouns based on settings. For example, if someone is transitioning and does not want to be outed in one setting, they may use different pronouns in that setting. Hence, why it is important to follow someone's lead and to confirm usage based on context.\n- They/them is a singular pronoun and has been since the late 1300s, so if someone tries to tell you that it's only plural, it's unlikely they take issue with the grammar but with something else.\n- Some plural people will refer to themselves as \"we\" to represent their plural identities.\n\n## Places to Put Pronouns\n\nGenerally speaking, whereever your name appears, including your pronouns is a good place to do so. The website [pronoun.is](https://pronoun.is) is helpful as it appends someone's pronouns to a link, and gives explanation to pronoun usage. You may see people include this in their various bios.\n\nSome ideas of places to put pronouns include:\n\n- Conference talks/webinars\n- Email signatures\n- Introductions (If you're introducing two or more people, make sure you confirm their pronouns if you're not certain)\n- Nametags\n- Social media bios\n- Video conference name fields\n- Websites\n\n## Impact\n\nBy respecting others' pronouns, asking them for consent, and sharing our own pronouns, we can normalise this step in socialisation. Doing so causes us to pause before presuming someone's pronouns. When people presume pronouns, it can lead to misgendering, which causes harm toward people, particularly trans and non-binary folks.\n\nIt is particularly important for people whose gender presentation and identity aligns with their pronouns to take this step, as they have the most power to influence society.\n\n## Read Also\n\n[gender pronouns](/definitions/gender-pronouns)\n[preferred pronoun](/definitions/preferred-pronoun)\n",
+    "basename": "pronouns"
+  },
+  "prophylaxis": {
+    "title": "Prophylaxis",
+    "slug": "prophylaxis",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Pre-exposure (PreEP)",
+        "full_title": "Pre-exposure Prophylaxis (PreEP)"
+      },
+      {
+        "text": "Post-exposure (PreEP)",
+        "full_title": "Post-exposure Prophylaxis (PEP)"
+      }
+    ],
+    "content": "\n",
+    "basename": "prophylaxis"
+  },
+  "psych": {
+    "title": "Psych",
+    "slug": "psych",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist language"
+    },
+    "content": "",
+    "basename": "psych"
+  },
+  "psychopath": {
+    "title": "Psychopath",
+    "slug": "psychopath",
+    "flag": {
+      "text": "Ableist Slur",
+      "level": "avoid"
+    },
+    "defined": false,
+    "content": "\n",
+    "basename": "psychopath"
+  },
+  "r-word": {
+    "title": "R-word",
+    "slug": "r-word",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "avoid",
+      "text": "ableist slur"
+    },
+    "reading": [
+      {
+        "text": "Why Use of the R-Word Needs to Stop",
+        "href": "https://www.verywellfamily.com/what-is-the-r-word-3105651"
+      },
+      {
+        "text": "End the R word",
+        "href": "https://www.sonc.org/EndtheRWord"
+      }
+    ],
+    "content": "\n\nPreviously, the word \"retard\" (often referred to by the euphemism \"the r-word\") was used in a medical context as an umbrella term to describe people with intellectual and developmental disabilities (I/DD).\n\nIn modern use, the r-word is generally used as a denigrating term for a person with an I/DD, or to compare someone _without_ an I/DD to someone _with_ an I/DD in a derogatory sense.\n\n## Issues\n\nWhile the term was previously used in a medical context, use of the word has transitioned to having a negative connotation in modern language. Changes are being made in both the medical and legal fields to reflect that conversational shift.\n\n[Rosa's Law was passed in 2010](https://www.congress.gov/111/plaws/publ256/PLAW-111publ256.pdf) to eliminate all references to \"mental retardation\" in U.S. federal law, replacing them with \"intellectual disability\".\n\nThe [DSM-5 update in 2013](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Intellectual-Disability.pdf) replaced \"mental retardation\" with \"intellectual disability\". [The Diagnostic and Statistical Manual of Mental Disorders (DSM)](https://www.psychiatry.org/psychiatrists/practice/dsm/feedback-and-questions/frequently-asked-questions) is the handbook used by health care professionals in the United States and much of the world as the authoritative guide to the diagnosis of mental disorders. The DSM is [periodically revised](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Intellectual-Disability.pdf) to align the manual's content with modern language and in reflection of the most up-to-date research and diagnostic criteria.\n\n## Impact\n\nRegardless of whether r-word is being used to describe someone with or without an I/DD, use of the word contributes to the dehumanisation, stigmatisation, and negative perceptions of people with an I/DD.\n\nBy using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Alt Words\n\nIf you are using it to describe or refer to a person with an I/DD in a context where their I/DD is relevant, first be certain that they have an I/DD. Use a term that does not have a derogatory connotation (\"intellectual disability\", or the name of the actual disability, if applicable). If you use the name of the actual disability, be certain that you are correct, and be certain that they are comfortable with using the name.\n\nIf you are using it to describe or refer to a person with an I/DD in a context where their I/DD is not relevant, don't. Describe something else about them as a person. if someone is writing an article about a person with an I/DD, the relevance of their I/DD should be led by them. Avoid \"inspiration porn\", which is the portrayal of people with disabilities as inspirational solely or in part on the basis of their disability. ([Coined by Stella Young](https://www.youtube.com/watch?v=SxrS7-I_sMQ)).\n\nIf you are using it to describe or refer to a person without an I/DD, don't. Use a different, more relevant, descriptive word.\n",
+    "basename": "r-word"
+  },
+  "race": {
+    "title": "Race",
+    "slug": "race",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Racial",
+        "full_title": "Racial"
+      },
+      {
+        "text": "Contract",
+        "full_title": "Race Contract"
+      },
+      {
+        "text": "Formation",
+        "full_title": "Racial Formation"
+      },
+      {
+        "text": "State",
+        "full_title": "Racial State"
+      },
+      {
+        "text": "Raciology",
+        "full_title": "Raciology"
+      }
+    ],
+    "content": "\n",
+    "basename": "race"
+  },
+  "racism": {
+    "title": "Racism",
+    "slug": "racism",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "racism"
+  },
+  "racist-language": {
+    "title": "Racist language",
+    "slug": "racist-language",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "racist-language"
+  },
+  "racist": {
+    "title": "Racist",
+    "slug": "racist",
+    "defined": false,
+    "content": "",
+    "basename": "racist"
+  },
+  "rape": {
+    "title": "Rape",
+    "slug": "rape",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "rape"
+  },
+  "sane": {
+    "title": "sane",
+    "slug": "sane",
+    "flag": {
+      "text": "Medical appropriation",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "logical",
+      "mindful",
+      "reasonable",
+      "sound",
+      "thoughtful",
+      "well-conceived",
+      "well-constructed",
+      "well-tested"
+    ],
+    "reading": [
+      {
+        "text": "Stack Exchange",
+        "href": "https://english.stackexchange.com/questions/282282/near-universally-applicable-alternative-to-sanity-check"
+      }
+    ],
+    "content": "\n\nof sound mind, mentally healthy\n\n## Issues\n\nWhile \"[insane](/definitions/insane)\" might seem more obvious to people as an ableist word to use, the subtle connotation that sanity is good implicitly suggests that _insanity_, its opposite, is bad.\n\nConnoting sanity (which is an assessment of a person's neurological status—a medical condition that largely can't be changed) with being well-thought out, reasonable, sensible (or mindful of an event or series of events) reinforces the ableist idea that sanity (being neurotypical or mentally well and abled) is good, and its opposite of insanity (being neurodivergent or mentally ill and disabled), is bad.\n\n## Impact\n\nUsing \"sane\" reinforces the system that excludes mentally ill and disabled people, reinforcing negative biases against them. Using this language causes harm to mentally ill, neurodivergent, and disabled people.\n\nBy using this ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what criteria we hope our test can meet and what kind of feedback we're hoping to gain.\n\n## Read also\n\n- [sanity check](/definitions/sanity-check)\n",
+    "basename": "sane"
+  },
+  "sanity-check": {
+    "title": "sanity check",
+    "slug": "sanity-check",
+    "flag": {
+      "text": "Ableist language",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "basic function test",
+      "coherence check",
+      "confidence check",
+      "consistency check",
+      "initial check",
+      "quick check",
+      "sense check",
+      "smoke test",
+      "temperature check",
+      "soundness check",
+      "plausibility check",
+      "spot check",
+      "gut check"
+    ],
+    "reading": [
+      {
+        "text": "Google Developer Documentation Style Guide: Inclusive Documentation",
+        "href": "https://developers.google.com/style/inclusive-documentation"
+      },
+      {
+        "text": "Stack Exchange",
+        "href": "https://english.stackexchange.com/questions/282282/near-universally-applicable-alternative-to-sanity-check"
+      }
+    ],
+    "content": "\n\n a basic test to quickly evaluate whether a claim or the result of a calculation can possibly be true; when expressed literally, examines if the author of a test was sane when they wrote it; commonly used in software engineering to assess whether something is reasonable and sound or meets its goals/acceptance criteria.\n\n## Issues\n\nConnoting sanity (which is an assessment of a person's neurological status—a medical condition that largely can't be changed) with the thoroughness of a piece of software (which is an object we create by decisions, which can be changed) reinforces the ableist idea that sanity (being neurotypical or mentally well) is good and its opposite of insanity (being neurodivergent or mentally ill) is bad.\n\n## Impact\n\nUsing \"sanity check\" in our engineering processes reinforces a system that excludes mentally ill and disabled people, reinforcing negative biases against them and making unsafe places for them to work and to be. Using this language causes harm to our mentally ill, neurodivergent, and disabled colleagues.\n\nUsing \"sane\" reinforces the system that excludes mentally ill and disabled people, reinforcing negative biases against them. Using this language causes harm to mentally ill, neurodivergent, and disabled people.\n\nBy using this ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what criteria we hope our test can meet and what kind of feedback we're hoping to gain.\n\n## Read Also\n\n- [sane](/definitions/sane)\n",
+    "basename": "sanity-check"
+  },
+  "savage": {
+    "title": "savage",
+    "slug": "savage",
+    "speech": "noun or adjective",
+    "defined": true,
+    "flag": {
+      "level": "avoid",
+      "text": "racist slur"
+    },
+    "reading": [
+      {
+        "href": "https://thedomainofthestrange.wordpress.com/2012/10/02/savages-the-history-of-a-word/",
+        "text": "Savages: The History of a Word"
+      },
+      {
+        "href": "https://theestablishment.co/stop-calling-people-savage-7746984d565d/index.html",
+        "text": "Stop calling people savage"
+      },
+      {
+        "href": "https://www.theguardian.com/world/2001/apr/15/socialsciences.highereducation",
+        "text": "Racists created the noble savage"
+      },
+      {
+        "href": "https://www.autostraddle.com/indigenous-peoples-day-honoring-my-people-and-rejecting-heroic-genocide-354654/",
+        "text": "Indigenous Peoples Day honoring my people and rejecting heroic genocide"
+      },
+      {
+        "href": "https://www.thestar.com/news/insight/2017/07/31/savages-scalps-and-stereotypes-i-combed-through-the-stars-historical-indigenous-coverage.html",
+        "text": "Savages, scalps and stereotypes: I combed through the stars historical Indigenous coverage"
+      },
+      {
+        "href": "https://www.theodysseyonline.com/america-stop-using-word-savage",
+        "text": "America: Stop using the word savage"
+      }
+    ],
+    "alt_words": [
+      "capricious",
+      "cold-blooded",
+      "cruel",
+      "fierce",
+      "harsh",
+      "merciless",
+      "ruthless",
+      "uncalled for",
+      "unconscionable"
+    ],
+    "content": "\n(adj) not domesticated, primative or civilised; wild, uncultivated; cold-blooded; colloquially used to mean ruthless or unconscionable.\n(noun) an undomesticated person, subhuman.\n\n## Issues\n\n\"Following the discovery of America, the phrase \"savage\" for indigenous peoples was used disparagingly to justify colonialism. The concept of the savage gave Europeans the supposed right to establish colonies without considering the possibility of preexisting, functional societies.\"[1](https://en.wikipedia.org/wiki/Noble_savage).\n\nThe term savage is deeply rooted in settler colonialism, used primarily to justify colonisation by dehumanising Indigenous people, in particular, with regard to North American Indigenous peoples.\n\nThe theories behind the \"noble savage\" led to scientific racism. [Boarding schools](https://eji.org/history-racial-injustice-cultural-genocide) were constructed to separate Indigenous children from their parents, becuase white colonisers didn't believe that they were equipped to be parents.\n\n“When the school is on the reserve the child lives with its parents, who are savages; he is surrounded by savages, and though he may learn to read and write his habits, and training and mode of thought are Indian. He is simply a savage who can read and write … [T]he Indian children should be withdrawn as much as possible from the parental influence, and the only way to do that would be to put them in central training industrial schools where they will acquire the habits and modes of thought of white men.”[2](https://eji.org/history-racial-injustice-cultural-genocide)\n\n## Impact\n\nBy continuing to use this word, rooted in colonist history and context, while Indigenous people's lands are still being occupied and unceded, while more and more Indigenous women and girls continue to go missing, we are perpetuating a word that has been used to justify the past and the ongoing harm we commit against Indigenous peoples. Seemingly small actions like this contribute to the normalisation of the harm.\n\nDenying the etymology or power of the word as irrelevant is denying the history of its strength: Savage has been used to dehumanise Indigenous people in order to justify oppressing them or granting them fewer rights. The justifications have even included Supreme Court cases.\n\nThe imagery associated with the \"savage\" is used to justify oppressive and systematic racism against Indigenous peoples; that they somehow deserve injustice because it is their own fault.\n\n## Considerations\n\nRihanna has a lingerie line called Savage by Fenty. Megan Thee Stallion has a song called \"Savage.\"\n\nThe intersection of oppression of Black and Indigenous cultures is one worth noting. [Gwen Benaway's piece, Rihanna’s Lingerie Line Brings Up a Complicated Discussion About Language](https://www.flare.com/fashion/rihanna-savage-fenty-lingerie/) addresses this complexity: \"As much as we like clear right and wrongs with easy retweetable hot takes, some issues—like the dialogue about savage between Indigenous and Black communities—isn’t one to simplify.\"\n",
+    "basename": "savage"
+  },
+  "savior": {
+    "title": "Savior",
+    "slug": "savior",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "White",
+        "full_title": "White Savior"
+      }
+    ],
+    "content": "\n",
+    "basename": "savior"
+  },
+  "self-harm": {
+    "title": "Self-harm",
+    "slug": "self-harm",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "self-harm"
+  },
+  "semitic": {
+    "title": "Semitic",
+    "slug": "semitic",
+    "defined": false,
+    "content": "",
+    "basename": "semitic"
+  },
+  "serodiscordant": {
+    "title": "Serodiscordant",
+    "slug": "serodiscordant",
+    "defined": false,
+    "content": "",
+    "basename": "serodiscordant"
+  },
+  "settler": {
+    "title": "settler",
+    "slug": "settler",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "colonial mentality",
+        "full_title": "colonial mentality"
+      }
+    ],
+    "content": "\n",
+    "basename": "settler"
+  },
+  "sexual-assault": {
+    "title": "sexual assault",
+    "slug": "sexual-assault",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "sexual-assault"
+  },
+  "sexual": {
+    "title": "Sexual",
+    "slug": "sexual",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Bi-",
+        "full_title": "Bisexual"
+      },
+      {
+        "text": "Pan-",
+        "full_title": "Pansexual"
+      },
+      {
+        "text": "assault of a minor",
+        "full_title": "assault of a minor"
+      },
+      {
+        "text": "Orientation",
+        "full_title": "Sexual Orientation"
+      }
+    ],
+    "content": "\n",
+    "basename": "sexual"
+  },
+  "socially-constructed": {
+    "title": "Socially constructed",
+    "slug": "socially-constructed",
+    "defined": false,
+    "content": "",
+    "basename": "socially-constructed"
+  },
+  "solidarity": {
+    "title": "Solidarity",
+    "slug": "solidarity",
+    "defined": false,
+    "content": "",
+    "basename": "solidarity"
+  },
+  "south-asian": {
+    "title": "South Asian",
+    "slug": "south-asian",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "content": "\numbrella term for people of South Asian descent. South Asian countries include Afghanistan, Bangladesh, Bhutan, Maldives, Nepal, India, Pakistan, and Sri Lanka.\n\n## Considerations\n\nAs many countries and cultures are enveloped within this umbrella term, try to be as specific as possible. If you know or can ask someone if they are Nepalese, for example, that's better as it's more specific.\n\nDo not assume someone is South Asian because of certain physical characteristics or language knowledge.\n\nAdditionally, these Asian subregions are important to differentiate as some regions were most fraught to imperialism and colonisation than others.\n",
+    "basename": "south-asian"
+  },
+  "southeast-asian": {
+    "title": "Southeast Asian",
+    "slug": "southeast-asian",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "content": "\numbrella term for people of Southeast Asian descent. South Asian countries include two sub-regions:\n\n- **Mainland Southeast Asia:** Cambodia, Laos, Myanmar, Peninsular Malaysia, Thailand and Vietnam.\n- **Maritime Southeast Asia:** Andaman and Nicobar Islands (India), Ashmore and Cartier Islands (Australia), Brunei, Christmas Island (Australia), the Cocos (Keeling) Islands (Australia), East Malaysia, East Timor, Indonesia (except Western New Guinea, which is considered a part of the Australian continent), the Philippines and Singapore.\n\n## Considerations\n\nAs many countries and cultures are enveloped within this umbrella term, try to be as specific as possible. If you know or can ask someone if they are Laotian, for example, that's better as it's more specific.\n\nDo not assume someone is Southeast Asian because of certain physical characteristics or language knowledge.\n\nAdditionally, these Asian subregions are important to differentiate as some regions were most fraught to imperialism and colonisation than others.\n",
+    "basename": "southeast-asian"
+  },
+  "spaz": {
+    "title": "Spaz",
+    "slug": "spaz",
+    "flag": {
+      "text": "Ableist Slur",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "hyper",
+      "anxious",
+      "jumpy",
+      "unable to focus"
+    ],
+    "content": "\n\nirrationally nervous person; hyperactive\n\n## Issues\n\nThe origin of the word “Spaz” is a shortened version of “Spastic.” Spastic refers to an alteration in muscle tone affected by the medical condition spasticity, which is seen in spastic diplegia and many other forms of cerebral palsy.\n\n## Impact\n\nBy using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling.\n",
+    "basename": "spaz"
+  },
+  "spirit-animal": {
+    "title": "Spirit animal",
+    "slug": "spirit-animal",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "cultural appropriation"
+    },
+    "content": "\n",
+    "basename": "spirit-animal"
+  },
+  "stupid": {
+    "title": "Stupid",
+    "slug": "stupid",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "ableist language"
+    },
+    "content": "\n",
+    "basename": "stupid"
+  },
+  "suicide": {
+    "title": "suicide",
+    "slug": "suicide",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "reading": [
+      {
+        "text": "Mental Health Foundation: Suicide",
+        "href": "https://www.mentalhealth.org.uk/a-to-z/s/suicide"
+      },
+      {
+        "text": "Samaritans: Best Practice Suicide Reporting Tips",
+        "href": "https://www.samaritans.org/about-samaritans/media-guidelines/best-practice-suicide-reporting-tips/"
+      }
+    ],
+    "content": "\nthe deliberate act of voluntarily ending one's own life. Motivation for suicide can be the result of conscious or unconscious thoughts and feelings.\n\n## Common Issues\n\nCommonly referred to in conversation and journalism as \"committed suicide\", \"took their own life\", or similar, which can have negative connotations with criminality and judgement, and can place blame on the individual.\n\nCan also be used in combination with a related measure of \"success\" which promotes suicide as a desirable result.\n\nSuicide is sometimes used colloquially to mean something will severely negatively impact you (e.g., \"social suicide\" and \"career suicide\"). Replace \"career suicide\" with \"career-ending,\" which conveys the same intent. Replace \"social suicide\" with a  complete rephrase where you avoid placing blame on the individual: \"Doing this will negatively impact your social life.\"\n\n## Impact\n\nUnless used with sensitivity and care, discussion of suicide can reinforce negative stereotypes and stigma around mental illness. Sensationalist reporting of suicide also risks inadvertently promoting suicide.\n\n## Usage Tips\n\nWhen discussing suicide and suicidal ideation:\n\n- Avoid mentioning details of methods used and suggesting that these are \"easy\" or \"painless\" to reduce the risk of imitation.\n- Avoid suggesting that suicide is an \"easy way out\".\n- Avoid speculation over possible triggers: Suicide and suicidal ideation is complex and not necessarily the result of a single event or condition. Attempting to explain away suicide with a specific cause or condition downplays the wider circumstances and the impact on all those affected.\n- Instead of saying that a person \"committed suicide\", say that a person \"died by suicide.\" Framing suicide as a symptom of wider/unknown-to-us conditions validates the individual as a victim, rather than a perpetrator.\n- Discussing or reporting on suicide can be an opportunity to signpost the support available and educate people about the importance of mental wellbeing.\n- Include local resources for people to gain help, such as links to suicide hotlines, mental health resources, etc. Ensure these resources are appropriately linked for ease of use (e.g., ensure telephones are linked with `tel` tags, for example).\n- Follow [Reporting on Suicide](https://reportingonsuicide.org/)'s guidelines (or similar linked resources below), especially if your reporting will be largely publicised.\n",
+    "basename": "suicide"
+  },
+  "systematic": {
+    "title": "Systematic",
+    "slug": "systematic",
+    "defined": false,
+    "content": "",
+    "basename": "systematic"
+  },
+  "systemic": {
+    "title": "Systemic",
+    "slug": "systemic",
+    "defined": false,
+    "content": "",
+    "basename": "systemic"
+  },
+  "tawhid": {
+    "title": "Tawhid",
+    "slug": "tawhid",
+    "defined": false,
+    "content": "",
+    "basename": "tawhid"
+  },
+  "tone-deaf": {
+    "title": "tone-deaf",
+    "slug": "tone-deaf",
+    "flag": {
+      "text": "Medical appropriation",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "adjective",
+    "alt_words": [
+      "badly drawn",
+      "in poor taste",
+      "insensitive",
+      "negligent",
+      "not thought through",
+      "unaware",
+      "poorly-conceived"
+    ],
+    "reading": [
+      {
+        "text": "Less well-known ableist language",
+        "href": "https://thisisforyoucarrie.blog/2018/01/07/less-well-known-ableist-language/"
+      },
+      {
+        "text": "Quora: Is tone-deaf ableist?",
+        "href": "https://www.quora.com/Is-the-term-tone-deaf-ableist?share=1"
+      }
+    ],
+    "content": "\n\namusia, a neurological disorder that can be congenital (from birth) or acquired (due to comorbidity or injury) that results in the inability to differentiate speech, loss of ability to sing or produce pitch, or other disassociations with music (like rhythm); colloquially, when something is insensitive or poorly thought through.\n\n## Appropriate Usage\n\nReferring the medical condition (amusia) as described above\n\n## Inappropriate Usage\n\nAs a literary metaphor for insensitive or negligent\n\n## Issues\n\nConnoting negligence with a medical disorder implies that actions we can control (bad choices) are the same as actions that cannot necessarily be controlled (deafness). It reinforces the discriminatory idea that disability is bad.\n\n## Impact\n\nUsing the word tone-deaf reinforces the idea that Deaf and/or non-speaking/non-verbal people are somehow less than and that disability is bad (see [Ableism](/definitions/ableism)).\n\nBy using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.\n\n## Usage Tip\n\nBe mindful if you're referring to the medical condition or using it as a literary metaphor. If the latter, substitute by being more specific. Typically we can find an alternate definition by taking time to reflect on what emotion we're really feeling.\n",
+    "basename": "tone-deaf"
+  },
+  "top-down-approach": {
+    "title": "Top-down approach",
+    "slug": "top-down-approach",
+    "defined": false,
+    "content": "",
+    "basename": "top-down-approach"
+  },
+  "totemic-animal": {
+    "title": "Totemic animal",
+    "slug": "totemic-animal",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "cultural appropriation"
+    },
+    "content": "",
+    "basename": "totemic-animal"
+  },
+  "tranny": {
+    "title": "Tranny",
+    "slug": "tranny",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "anti-trans slur"
+    },
+    "content": "\n",
+    "basename": "tranny"
+  },
+  "trans-exclusionary-radical-feminist": {
+    "title": "Trans Exclusionary Radical Feminist (TERF)",
+    "slug": "trans-exclusionary-radical-feminist",
+    "defined": false,
+    "content": "",
+    "basename": "trans-exclusionary-radical-feminist"
+  },
+  "trans": {
+    "title": "Trans",
+    "slug": "trans",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "-femme",
+        "full_title": "Trans-Femme"
+      },
+      {
+        "text": "-feminine",
+        "full_title": "Transfeminine"
+      },
+      {
+        "text": "-gender",
+        "full_title": "Transgender"
+      },
+      {
+        "text": "man",
+        "full_title": "Trans Man"
+      },
+      {
+        "text": "masculine",
+        "full_title": "Transmasculine"
+      },
+      {
+        "text": "phobia",
+        "full_title": "Transphobia"
+      },
+      {
+        "text": "woman",
+        "full_title": "Trans Woman"
+      }
+    ],
+    "content": "\n",
+    "basename": "trans"
+  },
+  "transfeminine": {
+    "title": "Transfeminine",
+    "slug": "transfeminine",
+    "speech": "adj",
+    "defined": true,
+    "content": "\n\ndescribes a [transgender](/definitions/transgender) person for whom femininity forms part of their gender.\n\nFor example, a transfeminine person may be a binary transgender woman; they may also be a [non-binary](/definitions/non-binary) person with a gender adjacent to female, or with multple genders including female.\n",
+    "basename": "transfeminine"
+  },
+  "transgender": {
+    "title": "Transgender",
+    "slug": "transgender",
+    "speech": "adj",
+    "defined": true,
+    "content": "\n\nof, relating to, or characterised by a gender that does not match the gender they were assigned at birth.\n\nThe opposite of [cisgender](/definitions/cisgender).\n",
+    "basename": "transgender"
+  },
+  "transmisia": {
+    "title": "transmisia",
+    "slug": "transmisia",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "transmisia"
+  },
+  "transphobia": {
+    "title": "transphobia",
+    "slug": "transphobia",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "transphobia"
+  },
+  "trauma": {
+    "title": "trauma",
+    "slug": "trauma",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "trauma"
+  },
+  "tribe": {
+    "title": "Tribe",
+    "slug": "tribe",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "cultural appropriation"
+    },
+    "content": "\n",
+    "basename": "tribe"
+  },
+  "triggers": {
+    "title": "Triggers",
+    "slug": "triggers",
+    "defined": false,
+    "flag": {
+      "level": "avoid",
+      "text": "medical appropriation"
+    },
+    "content": "",
+    "basename": "triggers"
+  },
+  "two-spirited": {
+    "title": "Two-spirited",
+    "slug": "two-spirited",
+    "defined": false,
+    "content": "",
+    "basename": "two-spirited"
+  },
+  "underrepresented-minority": {
+    "title": "underrepresented minority (URM)",
+    "slug": "underrepresented-minority",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "avoid"
+    },
+    "reading": [
+      {
+        "text": "Free Dictionary definition",
+        "href": "https://medical-dictionary.thefreedictionary.com/underrepresented+minority"
+      }
+    ],
+    "content": "\n\ngroup whose representation is disproportionately less than their proportion in the general population; often racial or ethnic minority is implied, but can be used to represent any identifier, such as LGBTQIA+, disabled, gender, etc.\n\nabbreviated often to URM\n\n## Issues\n\nOften people use URM to mean \"minoritised racial group\", when it doesn't explicitly mean racial group in all contexts (even if that's the most commonly used context). It can cause confusion when which minoritised group is being spoken of, and can also lessen/erase additional intersections of identity. For example, if someone is disabled and of a minoritised racial group, using URM to imply racial group can erase their disability.\n\nUsing a term like URM can also erase meaningful specificity. For example, an issue might specifically be relevant to Black folks, but by referring to the group as URM, it erases their Blackness, conflates/waters down issues, and reinforces the power dynamic of white and everyone else.\n\nURM can also imply that the group in question isn't \"showing up\" to be represented; that the burden is on the URM group to show up or to do more to improve their numbers and representation. Meanwhile, the complement, the overrepresented majority, tends to be unnamed.\n\n## Impact\n\nBy naming the underrepresented minority often without the overrepresented majority, we are often reinforcing the idea that people harmed by oppressive systems are on the hook to fix them.\n\nBy repeatedly referring to groups as \"[minorities](/definitions/minorities),\" they are being infantilised to their numerical representation and made to feel minor. The vagueness also abstracts the identify of the marginalised group, making it difficult to address why they are minoritised to begin with and often erasing the complexity of those intersections.\n\n## Usage\n\nWhen using any term for a group, it's important to contextualise it into people. So, for example, \"people from the underrepresented minorities are more likely to be affected by this change\" over \"the underrepresented minority are more likely to be affected by this change.\"\n\nAdditionally, it's important to examine the context of the usage:\n\n- Why are you placing focus on the URM groups?\n- Will you also be speaking of the role overrepresented majorities play as well?\n- Would examining and speaking of overrepresented majorities be more accurate to your context?\n- Is URM accurate?\n- If no, can you be more specific than URM?\n\n## Read also\n\n- [minorities](/definitions/minorities)\n- [minoritised](/definitions/minoritised)\n- [overrepresented majority](/definitions/overrepresented-majority)\n",
+    "basename": "underrepresented-minority"
+  },
+  "undetectable": {
+    "title": "Undetectable",
+    "slug": "undetectable",
+    "defined": false,
+    "content": "",
+    "basename": "undetectable"
+  },
+  "undetectableuntransmittable-(uu)": {
+    "title": "Undetectable=Untransmittable (U=U)",
+    "slug": "undetectableuntransmittable-(uu)",
+    "defined": false,
+    "content": "",
+    "basename": "undetectableuntransmittable-(uu)"
+  },
+  "unqueer": {
+    "title": "Unqueer",
+    "slug": "unqueer",
+    "defined": false,
+    "content": "",
+    "basename": "unqueer"
+  },
+  "unreal": {
+    "title": "unreal",
+    "slug": "unreal",
+    "defined": true,
+    "speech": "adj",
+    "content": "\n\nvery impressive; amazing; larger or more fantastic than typical of real life.\n",
+    "basename": "unreal"
+  },
+  "vertigo": {
+    "title": "Vertigo",
+    "slug": "vertigo",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Visual",
+        "full_title": "Visual Vertigo"
+      }
+    ],
+    "content": "\n",
+    "basename": "vertigo"
+  },
+  "vestibular-migraine": {
+    "title": "Vestibular migraine",
+    "slug": "vestibular-migraine",
+    "defined": false,
+    "content": "",
+    "basename": "vestibular-migraine"
+  },
+  "violence-against-women-and-girls": {
+    "title": "Violence against women and girls (VAWG)",
+    "slug": "violence-against-women-and-girls",
+    "defined": false,
+    "content": "",
+    "basename": "violence-against-women-and-girls"
+  },
+  "viral-load": {
+    "title": "Viral Load",
+    "slug": "viral-load",
+    "defined": false,
+    "content": "",
+    "basename": "viral-load"
+  },
+  "weight-gain": {
+    "title": "weight gain",
+    "slug": "weight-gain",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "weight-gain"
+  },
+  "weight-loss": {
+    "title": "weight loss",
+    "slug": "weight-loss",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "\n",
+    "basename": "weight-loss"
+  },
+  "white-feminism": {
+    "title": "white feminism",
+    "slug": "white-feminism",
+    "defined": true,
+    "flag": {
+      "level": "tool",
+      "text": "white supremacy tool"
+    },
+    "reading": [
+      {
+        "text": "White is toxic white feminism?",
+        "href": "https://www.harpersbazaar.com/culture/politics/a22717725/what-is-toxic-white-feminism/"
+      },
+      {
+        "text": "Emma Watson Addresses Her White Privilege and 'White Feminism' in Letter to Her Book Club",
+        "href": "https://www.wmagazine.com/story/emma-watson-white-privilege-feminism/"
+      },
+      {
+        "text": "White Tears, Brown Scars, by Ruby Hamad",
+        "href": "https://www.mup.com.au/books/white-tearsbrown-scars-paperback-softback"
+      }
+    ],
+    "content": "\na form of \"feminism\" that prioritises the issues of and denies the privileges of abled, white, [cisgender](/definitions/cisgender), hetero Western/Anglo women, while ignoring to outwardly denying the issues of disabled, Black/brown, trans, queer women; actively denies intersectional forms of oppression including but not limited to racism, sexism, transmisia, Islamomisia, queermisia.\n\nWhite feminism is a tool of white supremacy, as it reinforces the power and default/idealised setting of whiteness.\n\n## Examples\n\n- White feminists marching in the Women's March but absent for #BlackLivesMatter, and/or calling cops on Black/brown people for no reason other than existing.\n- White feminists ensuring that there is women represented on a panel, but being fine if the panel is still all white, able-bodied, cisgender, etc.\n- White feminists appropriating yoga, colonising its purpose from meditation to weight-loss, or improving vanity and outward appearance by white Westernised, able-bodied beauty standards.\n- White feminists supporting \"women's empowerment\" for choice, while sex work-shaming.\n- White feminists supporting \"women's choices\" while participating in fat-shaming or otherwise reinforcing conventional Western/Anglo beauty standards.\n- White feminists employing microaggressions, weaponised compliments, or white women tears to invalidate the lived experiences of Black/brown women.\n- White feminists aligning with their whiteness as a \"pick me\", denying the intersectional issues that they do not face, but other multiply marginalised women do.\n- White feminists calling attention to reproductive rights, while actively using trans-exclusive language (such as, associating menstrating with womanhood).\n- White feminists exploit the duality of both being presented as someone can do no harm, while actively doing harm to multiply marginalised women.\n\n## Notes\n\n- **Not all white women are necessary white feminists.** However, as white feminism is a tool of white supremacy, it is one that every white woman (and white-/woman- presenting person) receives at birth by nature of their appearance as a form of white privilege. Furthermore, every white woman is empowered to use it to reinforce the power of the white supremecist capitalist patriarchy.\n\n- For a white woman to not be a white feminist, they must engage in actively dismantling their unearned privilege and fight their engrained nature. This usually involves learning how to become anti-racist, anti-ableist, anti-transmisic, etc.\n\n- While it is not a white feminist's _fault_ that they were born into, indoctrinated with, and socialised to use white feminist tools, it is their _responsibility_ to examine and to unpack the harm they can intentional and unintentionally commit. Just like it's not minoritised women's fault that they were born into bodies that are harmed by white feminism.\n\n- White feminists can come in any gender, ability, race, orientation, nationality. White men benefit from supporting white feminism and white feminists, as it supports white supremacy. For Black/brown folks, the white feminism may take a form of internalised oppression and require a decolonialisation of self to understand.\n\n- Other forms of oppression do not negate this white privilege. So, a disabled white woman still is indoctrinated with the power of and benefits from white feminism and white privilege, at the harm of Black/brown disabled women. Same goes for size-privilege, etc.\n\n## Impact\n\nBlack/brown women's issues become secondary and subordinate to the needs of white women. White feminism only advances white women, and often at the harm of Black and brown women and minoritised genders. In fact, often, once the needs of white women are met, Black/brown women are left behind.\n\nWhite feminism destroys the work against integrated and intersectional dismantling of the white supremecist capitalis patriarchy and kyriarchy.\n\n## What To Do\n\nIf you suspect you might be a white feminist, examine your brand of feminism.\n\n- What privileges do you possess that other women do not?\n- How have you reinforced the systems of oppression (intentionally or unintentionally)?\n- When reading feminist texts or thinking of feminist icons, who are you centring? Who is missing?\n\nIf you are white, examine your own [white fragility](/definitions/white-fragility). Reading Black feminist and womanist texts by authors like Angela Davis, bell hooks, and Audre Lorde is a good place to start.\n\n## Editor's Notes\n\n[Non-binary](/definitions/non-binary), agender, gender non-conforming, and other gender minoritised people are often neglected in traditional feminist rhetoric. In this entry, we've explicitly not conflated and used the term \"non-binary people and women\" as many non-binary people do not like being lumped in with women. Exploring the nuance between even Black/brown women and Black/brown non-binary people, as one example, requires separate subtext beyond the scope of this singular definition.\n\nIn our definition of women, we include trans women, because trans women are women.\n",
+    "basename": "white-feminism"
+  },
+  "white-fragility": {
+    "title": "White fragility",
+    "slug": "white-fragility",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "White Supremacy Tool"
+    },
+    "reading": [
+      {
+        "text": "White Fragility by Robin DiAngelo",
+        "href": "https://robindiangelo.com/publications/"
+      },
+      {
+        "text": "White Fragility tag on The Root",
+        "href": "https://www.theroot.com/tag/white-fragility"
+      }
+    ],
+    "content": "\n\nthe tendency for dominant white culture to respond to racism with defensive, dismissive, and angry responses; “a state in which even a minimum amount of racial stress becomes intolerable, triggering a range of defensive moves.” (Robin DiAngelo).\n\n## Impact\n\nWhite fragility detracts from critical conversations about the systemic oppressors at play. The cost of white fragility is that it centres the feelings of white people while ignoring and invalidating the systemic harm conducted towards people of colour. White fragility also prevents white people from doing anti-racist work to unpack their socially internalised racism.\n",
+    "basename": "white-fragility"
+  },
+  "white-supremacist-capitalist-patriarchy": {
+    "title": "White supremacist capitalist patriarchy",
+    "slug": "white-supremacist-capitalist-patriarchy",
+    "defined": false,
+    "content": "",
+    "basename": "white-supremacist-capitalist-patriarchy"
+  },
+  "white": {
+    "title": "White",
+    "slug": "white",
+    "defined": false,
+    "sub_terms": [
+      {
+        "text": "Feminism",
+        "full_title": "White Feminism"
+      },
+      {
+        "text": "Fragility",
+        "full_title": "White Fragility"
+      },
+      {
+        "text": "-ness",
+        "full_title": "Whiteness"
+      },
+      {
+        "text": "Supremacy",
+        "full_title": "White Supremacy"
+      },
+      {
+        "text": "Woman Tears",
+        "full_title": "White Woman Tears"
+      },
+      {
+        "text": "People (WP)",
+        "full_title": "White People (WP)"
+      },
+      {
+        "text": "Woman (WP)",
+        "full_title": "White Woman (WP)"
+      }
+    ],
+    "content": "\n",
+    "basename": "white"
+  },
+  "womanism": {
+    "title": "womanism",
+    "slug": "womanism",
+    "defined": false,
+    "content": "",
+    "basename": "womanism"
+  },
+  "women-and-people-of-colour": {
+    "title": "women and people of colour",
+    "slug": "women-and-people-of-colour",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "people of colour and white women",
+      "people of colour",
+      "white non-binary people, and white women",
+      "find ways to reframe why this dynamic exists",
+      "or omit"
+    ],
+    "content": "\n\noften used as a phrase to encompass “non-white, non-men,” seeking to provide solidarity for these two groups\n\n## Issues\n\nWhat happens to women of colour? As a woman of colour, I am split between both women and people of colour.\n\n## Impact\n\nAs such, it elicits feelings of erasure for women of colour. It also neglects [non-binary](/definitions/non-binary) individuals.\n",
+    "basename": "women-and-people-of-colour"
+  },
+  "womxn": {
+    "title": "womxn",
+    "slug": "womxn",
+    "defined": false,
+    "content": "",
+    "basename": "womxn"
+  },
+  "xenophoba": {
+    "title": "xenophobia",
+    "slug": "xenophobia",
+    "defined": false,
+    "flag": {
+      "level": "warning",
+      "text": "content warning"
+    },
+    "content": "",
+    "basename": "xenophoba"
+  }
+}

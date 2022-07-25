@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch-mysql",
+  "version": "0.0.1",
+  "description": "Test setup for Self Defined API using Elastic Search and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src",
+    "start-docker": "docker-compose up -d",
+    "sync-database": "node ./src/deployment/sync-database.js"
+  },
+  "author": "Self Defined - Simeon Smith",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4",
+    "sequelize-slugify": "^0.9.1"
+  },
+  "devDependencies": {
+    "markdown-to-json": "^0.5.4",
+    "sequelize-cli": "^6.2.0"
+  }
+}
